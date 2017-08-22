@@ -7,7 +7,7 @@ date: 2017-04-06 12:00:00
 
 ---
 
-{% include image name="punk.jpg" %}
+{% include image name="003_punk.jpg" %}
 
 > **Verdict:** This turned out exactly like Brewdog's original! A favourite of mine.
 

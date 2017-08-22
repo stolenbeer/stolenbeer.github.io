@@ -6,7 +6,7 @@ date:   2017-03-31 12:00:00
 categories: [IPAs]
 ---
 
-{% include image name="rye.jpg" %}
+{% include image name="002_rye.jpg" %}
 
 > **Verdict:** This freezer cleaner was not exactly my thing, although a few of my friends said that they liked it. Too much Rye, not enough hop flavour or aroma coming through. I chalk this batch up to being a lesson on [how to brew a better Rye in the future](#ideas).
 

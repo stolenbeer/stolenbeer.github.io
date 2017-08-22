@@ -7,7 +7,7 @@ date: 2017-05-12 12:00:00
 
 ---
 
-{% include image name="gose.jpg" %}
+{% include image name="005a_gose.jpg" %}
 
 {:.lead}
 A refreshing summertime brew perfect for an afternoon spent on the beach. Light, salty, sour with a big hoppy nose. Spiked full of white wine and tropical fruit flavours - kiwifruit, pineapple, lime zest and lemonades. Best enjoyed fresh before the aroma fades!

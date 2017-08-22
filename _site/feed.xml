@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 23 Aug 2017 09:37:53 +1000</pubDate>
-    <lastBuildDate>Wed, 23 Aug 2017 09:37:53 +1000</lastBuildDate>
+    <pubDate>Wed, 23 Aug 2017 09:46:32 +1000</pubDate>
+    <lastBuildDate>Wed, 23 Aug 2017 09:46:32 +1000</lastBuildDate>
     <generator>Jekyll v3.5.1</generator>
     
       <item>
@@ -201,7 +201,7 @@
         <description>&lt;figure&gt;
 
 
-    &lt;img src=&quot;/assets/posts/2017-05-12-no-005a-summer-salt-gose/gose.jpg&quot; /&gt;
+    &lt;img src=&quot;http://localhost:4000/assets/images/005a_gose.jpg&quot; /&gt;
 
 &lt;/figure&gt;
 
@@ -520,7 +520,7 @@ Safale S04 English Ale&lt;/p&gt;
         <description>&lt;figure&gt;
 
 
-    &lt;img src=&quot;/assets/posts/2017-04-06-no-003-son-of-a-punk/punk.jpg&quot; /&gt;
+    &lt;img src=&quot;http://localhost:4000/assets/images/003_punk.jpg&quot; /&gt;
 
 &lt;/figure&gt;
 
@@ -736,7 +736,7 @@ Safale S04 English Ale&lt;/p&gt;
         <description>&lt;figure&gt;
 
 
-    &lt;img src=&quot;/assets/posts/2017-03-31-no-002-session-rye-ipa/rye.jpg&quot; /&gt;
+    &lt;img src=&quot;http://localhost:4000/assets/images/002_rye.jpg&quot; /&gt;
 
 &lt;/figure&gt;
 
