@@ -5,7 +5,7 @@ description: >
   A blog of the best homebrew beer recipes stolen from around the internet and brewed by me, Lochlan.
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: "http://stolenbeer.github.io" # the base hostname & protocol for your site
 
 author:
   fullname: Lochlan Gillis

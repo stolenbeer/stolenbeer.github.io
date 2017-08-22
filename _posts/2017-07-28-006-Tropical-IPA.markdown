@@ -1,0 +1,61 @@
+---
+layout: post
+title:  "No.006 - Tropical IPA"
+subtitle: ""
+date:   2017-07-28 12:00:00
+categories: [IPAs]
+---
+
+
+> **Verdict:** Tropical notes abound! This turned out great, especially considering I correct gravity *during fermentation*, crossing my fingers and throwing malt extract into the fermenter. Like a complete rogue. But it worked! Also, I really love this hop combination.
+
+
+## Recipe ##
+**Vol:** 10L (Half batch)  
+**Targets:**
+
+| OG | FG | ABV | IBU |
+|----|----|-----|-----|
+| 1.049 | 1.012 | 4.8% | 47 |
+
+{:.section-title}
+### 1. Mash ###
+### Grist ###
+
+| Grain           | Weight (g) |         |
+|-----------------|------------|---------|
+| Ale Maris Otter | 2000       | (87.7%) |
+| Oats Malted     | 140        | (6.1%)  |
+| CaraMunich 2    | 140        | (6.1%)  |
+
+### Mash Steps ###
+
+| Step            | time | temp  |
+|-----------------|------|-------|
+| Mash            | 60   | 66 °C |
+| Mash out        | 10   | 77 °C |
+
+{:.section-title}
+### 2. Boil ###
+
+### Hop Schedule ###
+
+| Hop           | time            | weight (g) | AA % | IBU        |
+|---------------|-----------------|------------|------|------------|
+| **BOIL**      |                 |            |      |            |
+| Simcoe        | 60              | 14         | 13   | 47         |
+| **WHIRLPOOL** |                 |            |      |            |
+| Nelson Sauvin | 0 min           | 14         | 11.5 |            |
+| Citra         | 0 min           | 14         | 11.1 |            |
+| Nelson Sauvin | 30 min          | 14         | 11.5 |            |
+| Citra         | 30 min          | 14         | 11.1 |            |
+| Nelson Sauvin | d. hop (7 days) | 10         | 11.5 |            |
+| Citra         | d. hop (7 days) | 7          | 11.1 |            |
+| Amarillo      | d. hop (3 days) | 14         | 8.5  |            |
+
+{:.section-title}
+### 3. Ferment  ###
+### Yeast ###
+Safale US05
+
+---

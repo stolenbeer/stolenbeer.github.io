@@ -6,9 +6,195 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 22 Aug 2017 20:07:04 +1000</pubDate>
-    <lastBuildDate>Tue, 22 Aug 2017 20:07:04 +1000</lastBuildDate>
+    <pubDate>Tue, 22 Aug 2017 20:44:02 +1000</pubDate>
+    <lastBuildDate>Tue, 22 Aug 2017 20:44:02 +1000</lastBuildDate>
     <generator>Jekyll v3.5.1</generator>
+    
+      <item>
+        <title>No.006 - Tropical IPA</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Verdict:&lt;/strong&gt; Tropical notes abound! This turned out great, especially considering I correct gravity &lt;em&gt;during fermentation&lt;/em&gt;, crossing my fingers and throwing malt extract into the fermenter. Like a complete rogue. But it worked! Also, I really love this hop combination.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;recipe&quot;&gt;Recipe&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Vol:&lt;/strong&gt; 10L (Half batch)&lt;br /&gt;
+&lt;strong&gt;Targets:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;OG&lt;/th&gt;
+      &lt;th&gt;FG&lt;/th&gt;
+      &lt;th&gt;ABV&lt;/th&gt;
+      &lt;th&gt;IBU&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1.049&lt;/td&gt;
+      &lt;td&gt;1.012&lt;/td&gt;
+      &lt;td&gt;4.8%&lt;/td&gt;
+      &lt;td&gt;47&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 class=&quot;section-title&quot; id=&quot;1-mash&quot;&gt;1. Mash&lt;/h3&gt;
+&lt;h3 id=&quot;grist&quot;&gt;Grist&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Grain&lt;/th&gt;
+      &lt;th&gt;Weight (g)&lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Ale Maris Otter&lt;/td&gt;
+      &lt;td&gt;2000&lt;/td&gt;
+      &lt;td&gt;(87.7%)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Oats Malted&lt;/td&gt;
+      &lt;td&gt;140&lt;/td&gt;
+      &lt;td&gt;(6.1%)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;CaraMunich 2&lt;/td&gt;
+      &lt;td&gt;140&lt;/td&gt;
+      &lt;td&gt;(6.1%)&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;mash-steps&quot;&gt;Mash Steps&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Step&lt;/th&gt;
+      &lt;th&gt;time&lt;/th&gt;
+      &lt;th&gt;temp&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Mash&lt;/td&gt;
+      &lt;td&gt;60&lt;/td&gt;
+      &lt;td&gt;66 °C&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Mash out&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;77 °C&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 class=&quot;section-title&quot; id=&quot;2-boil&quot;&gt;2. Boil&lt;/h3&gt;
+
+&lt;h3 id=&quot;hop-schedule&quot;&gt;Hop Schedule&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Hop&lt;/th&gt;
+      &lt;th&gt;time&lt;/th&gt;
+      &lt;th&gt;weight (g)&lt;/th&gt;
+      &lt;th&gt;AA %&lt;/th&gt;
+      &lt;th&gt;IBU&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;BOIL&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Simcoe&lt;/td&gt;
+      &lt;td&gt;60&lt;/td&gt;
+      &lt;td&gt;14&lt;/td&gt;
+      &lt;td&gt;13&lt;/td&gt;
+      &lt;td&gt;47&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;WHIRLPOOL&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Nelson Sauvin&lt;/td&gt;
+      &lt;td&gt;0 min&lt;/td&gt;
+      &lt;td&gt;14&lt;/td&gt;
+      &lt;td&gt;11.5&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Citra&lt;/td&gt;
+      &lt;td&gt;0 min&lt;/td&gt;
+      &lt;td&gt;14&lt;/td&gt;
+      &lt;td&gt;11.1&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Nelson Sauvin&lt;/td&gt;
+      &lt;td&gt;30 min&lt;/td&gt;
+      &lt;td&gt;14&lt;/td&gt;
+      &lt;td&gt;11.5&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Citra&lt;/td&gt;
+      &lt;td&gt;30 min&lt;/td&gt;
+      &lt;td&gt;14&lt;/td&gt;
+      &lt;td&gt;11.1&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Nelson Sauvin&lt;/td&gt;
+      &lt;td&gt;d. hop (7 days)&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;11.5&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Citra&lt;/td&gt;
+      &lt;td&gt;d. hop (7 days)&lt;/td&gt;
+      &lt;td&gt;7&lt;/td&gt;
+      &lt;td&gt;11.1&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Amarillo&lt;/td&gt;
+      &lt;td&gt;d. hop (3 days)&lt;/td&gt;
+      &lt;td&gt;14&lt;/td&gt;
+      &lt;td&gt;8.5&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 class=&quot;section-title&quot; id=&quot;3-ferment&quot;&gt;3. Ferment&lt;/h3&gt;
+&lt;h3 id=&quot;yeast&quot;&gt;Yeast&lt;/h3&gt;
+&lt;p&gt;Safale US05&lt;/p&gt;
+
+&lt;hr /&gt;
+</description>
+        <pubDate>Fri, 28 Jul 2017 22:00:00 +1000</pubDate>
+        <link>http://localhost:4000/ipas/2017/07/28/006-Tropical-IPA.html</link>
+        <guid isPermaLink="true">http://localhost:4000/ipas/2017/07/28/006-Tropical-IPA.html</guid>
+        
+        
+        <category>IPAs</category>
+        
+      </item>
     
       <item>
         <title>No.005a - Summer &amp; Salt Gose 🌟</title>
