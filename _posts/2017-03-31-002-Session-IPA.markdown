@@ -1,0 +1,73 @@
+---
+layout: post
+title:  "No.002 - Session Rye IPA"
+subtitle: ""
+date:   2017-03-31 12:00:00
+categories: [IPAs]
+---
+
+{% include image name="rye.jpg" %}
+
+> **Verdict:** This freezer cleaner was not exactly my thing, although a few of my friends said that they liked it. Too much Rye, not enough hop flavour or aroma coming through. I chalk this batch up to being a lesson on [how to brew a better Rye in the future](#ideas).
+
+
+## Recipe ##
+**Vol:** 10L (Half batch)  
+**Targets:**
+
+| OG | FG | ABV | IBU |
+|----|----|-----|-----|
+| 1.049 | 1.012 | 4.9% | 30 |
+
+{:.section-title}
+### 1. Mash ###
+### Grist ###
+
+| Grain              | Weight (g) | % Bill |
+|--------------------|------------|--------|
+| Ale Malt           | 2000 | 76% |
+| Crystal Medium 150 | 120  | 5%  |
+| Rye Malt           | 500  | 19% |
+
+### Mash Steps ###
+
+| Step            | time | temp  |
+|-----------------|------|-------|
+| Saccharification Rest | 60   | 66 °C |
+| Mash out        | 10   | 77 °C |
+
+{:.section-title}
+### 2. Boil ###
+
+### Hop Schedule ###
+
+| Hop      | time | weight (g) | AA % |
+|----------|------|------------|------|
+| Simcoe    | 30      | 3  | 13   |
+| El Dorado | 15      | 6  | 16   |
+| Simcoe    | 15      | 6  | 13   |
+| El Dorado | 0       | 14 | 16   |
+| Ahtanum   | 0       | 14 | 5.2  |
+| Citra     | 0       | 14 | 11.1 |
+| Amarillo  | 0       | 14 | 8.5  |
+| El Dorado | dry hop | 30 | 16   |
+| Galaxy    | dry hop | 30 | 13.4 |
+
+{:.section-title}
+### 3. Ferment  ###
+### Yeast ###
+Safale US05
+
+---
+
+The idea behind this batch was to use up left over hops and try my hand at a Session Rye IPA. I was thinking something not too dissimilar to Stone's Go To IPA. But Rye.
+
+Well, this turned out nothing like expected. It was a big spice bomb that lacked any clear hop notes due to the heavy handed addition of Rye Malt that dominated the flavour. It was a mash up of too many incongruous ideas that reminded me - next time, *Keep it Simple*.
+
+{:#ideas}
+## Some Thoughts ##
+
+Basically there was too much spice and not enough aroma for my liking. Back to the drawing board with these notes in mind:
+1. Back off on the Rye Malt. I'd aim for 10% of the malt bill, no more than 12% tops.
+2. This was a kind of confusing medley of hops and next time I'd keep it more subtle. For example, straight citrus hops would be great (Amarillo, Cascade, Citra). Or perhaps the floral note of Centennial would contrast well against rye's spice. Pacifica could be another great option for a marmalade & toast like flavour.
+3. I'd stay away from resinous hops (Simcoe, El Dorado) in combination with Rye. To me, the note of resin contends with Rye - resulting in too much harshness which I perceive as tasting like tannins.

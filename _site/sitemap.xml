@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+    
+    <url>
+      <loc>http://localhost:4000/sours/favourites/2017/05/12/005a-Summer-and-Salt.html/</loc>
+      
+        <lastmod>2017-05-12T22:00:00+10:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.7</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/stouts/2017/05/09/004-Oatmeat-Stout.html/</loc>
+      
+        <lastmod>2017-05-09T22:00:00+10:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.7</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/ipas/favourites/2017/04/06/003-Son-of-a-Punk.html/</loc>
+      
+        <lastmod>2017-04-06T22:00:00+10:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.7</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/ipas/2017/03/31/002-Session-IPA.html/</loc>
+      
+        <lastmod>2017-03-31T22:00:00+10:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.7</priority>
+      
+    </url>
+    
+  
+  
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/categories/favourites/</loc>
+      
+        <lastmod>2017-08-22T13:09:25+10:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/categories/ipas/</loc>
+      
+        <lastmod>2017-08-22T13:09:25+10:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/categories/sours/</loc>
+      
+        <lastmod>2017-08-22T13:09:25+10:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/categories/stouts/</loc>
+      
+        <lastmod>2017-08-22T13:09:25+10:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/about/</loc>
+      
+        <lastmod>2017-08-22T13:09:25+10:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/</loc>
+      
+        <lastmod>2017-08-22T13:09:25+10:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.9</priority>
+      
+    </url>
+    
+  
+    
+  
+    
+  
+    
+  
+</urlset>
