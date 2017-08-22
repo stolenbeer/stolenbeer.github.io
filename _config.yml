@@ -26,11 +26,3 @@ exclude: ["README.md", "README.html"]
 # Build settings
 highlighter: null
 markdown: kramdown
-
-# Assets
-assets:
-  sources:
-    - _assets
-    - _assets/fonts
-    - _assets/images
-    - _assets/posts
