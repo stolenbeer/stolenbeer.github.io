@@ -83,7 +83,7 @@
     <url>
       <loc>http://localhost:4000/categories/favourites/</loc>
       
-        <lastmod>2017-08-23T09:54:49+10:00</lastmod>
+        <lastmod>2017-08-23T19:17:58+10:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -98,7 +98,7 @@
     <url>
       <loc>http://localhost:4000/categories/ipas/</loc>
       
-        <lastmod>2017-08-23T09:54:49+10:00</lastmod>
+        <lastmod>2017-08-23T19:17:58+10:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -113,7 +113,7 @@
     <url>
       <loc>http://localhost:4000/categories/sours/</loc>
       
-        <lastmod>2017-08-23T09:54:49+10:00</lastmod>
+        <lastmod>2017-08-23T19:17:58+10:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -128,7 +128,7 @@
     <url>
       <loc>http://localhost:4000/categories/stouts/</loc>
       
-        <lastmod>2017-08-23T09:54:49+10:00</lastmod>
+        <lastmod>2017-08-23T19:17:58+10:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -143,7 +143,7 @@
     <url>
       <loc>http://localhost:4000/about/</loc>
       
-        <lastmod>2017-08-23T09:54:49+10:00</lastmod>
+        <lastmod>2017-08-23T19:17:58+10:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -160,7 +160,7 @@
     <url>
       <loc>http://localhost:4000/</loc>
       
-        <lastmod>2017-08-23T09:54:49+10:00</lastmod>
+        <lastmod>2017-08-23T19:17:58+10:00</lastmod>
       
       
         <changefreq>monthly</changefreq>

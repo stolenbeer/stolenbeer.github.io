@@ -22,11 +22,11 @@ categories: [IPAs]
 ### 1. Mash ###
 ### Grist ###
 
-| Grain           | Weight (g) |         |
-|-----------------|------------|---------|
-| Ale Maris Otter | 2000       | (87.7%) |
-| Oats Malted     | 140        | (6.1%)  |
-| CaraMunich 2    | 140        | (6.1%)  |
+| Grain           | Weight      |         |
+|-----------------|-------------|---------|
+| Maris Otter     | 2000 g      | (87.7%) |
+| Malted Oats     | 140 g       | (6.1%)  |
+| CaraMunich      | 140 g       | (6.1%)  |
 
 ### Mash Steps ###
 

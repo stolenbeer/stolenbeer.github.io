@@ -25,8 +25,8 @@ categories: [IPAs]
 
 | Grain              | Weight (g) | % Bill |
 |--------------------|------------|--------|
-| Ale Malt           | 2000 | 76% |
-| Crystal Medium 150 | 120  | 5%  |
+| Pale Ale Malt      | 2000 | 76% |
+| Crystal Medium     | 120  | 5%  |
 | Rye Malt           | 500  | 19% |
 
 ### Mash Steps ###

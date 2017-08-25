@@ -24,9 +24,9 @@ categories: [stouts]
 | Grain              | Weight (g) | % Bill |
 |--------------------|------------|--------|
 | Ale Malt           | 900        | 71%    |
-| Crystal Medium 150 | 110        | 9%     |
+| Crystal Medium     | 110        | 9%     |
 | Oats Flaked        | 125        | 10%    |
-| Chocolate Malt 600 | 70         | 6%     |
+| Chocolate Malt     | 70         | 6%     |
 | Special Roast      | 60         | 5%     |
 
 ### Mash Steps ###
