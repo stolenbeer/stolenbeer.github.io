@@ -6,21 +6,23 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 23 Aug 2017 19:17:58 +1000</pubDate>
-    <lastBuildDate>Wed, 23 Aug 2017 19:17:58 +1000</lastBuildDate>
+    <pubDate>Wed, 06 Sep 2017 18:28:48 +1000</pubDate>
+    <lastBuildDate>Wed, 06 Sep 2017 18:28:48 +1000</lastBuildDate>
     <generator>Jekyll v3.5.1</generator>
     
       <item>
-        <title>No.006 - Tropical IPA</title>
+        <title>No.012 ・ Tropical IPA</title>
         <description>&lt;blockquote&gt;
   &lt;p&gt;&lt;strong&gt;Verdict:&lt;/strong&gt; Tropical notes abound! This turned out great, especially considering I correct gravity &lt;em&gt;during fermentation&lt;/em&gt;, crossing my fingers and throwing malt extract into the fermenter. Like a complete rogue. But it worked! Also, I really love this hop combination.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;h2 id=&quot;recipe&quot;&gt;Recipe&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Vol:&lt;/strong&gt; 10L (Half batch)&lt;br /&gt;
+&lt;strong&gt;Mash:&lt;/strong&gt;  66°C for 60 min&lt;br /&gt;
+&lt;strong&gt;Yeast:&lt;/strong&gt; Safale US05 American Ale&lt;br /&gt;
 &lt;strong&gt;Targets:&lt;/strong&gt;&lt;/p&gt;
 
-&lt;table&gt;
+&lt;table class=&quot;table&quot;&gt;
   &lt;thead&gt;
     &lt;tr&gt;
       &lt;th&gt;OG&lt;/th&gt;
@@ -40,7 +42,6 @@
 &lt;/table&gt;
 
 &lt;h3 class=&quot;section-title&quot; id=&quot;1-mash&quot;&gt;1. Mash&lt;/h3&gt;
-&lt;h3 id=&quot;grist&quot;&gt;Grist&lt;/h3&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -69,33 +70,7 @@
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;h3 id=&quot;mash-steps&quot;&gt;Mash Steps&lt;/h3&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Step&lt;/th&gt;
-      &lt;th&gt;time&lt;/th&gt;
-      &lt;th&gt;temp&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Mash&lt;/td&gt;
-      &lt;td&gt;60&lt;/td&gt;
-      &lt;td&gt;66 °C&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Mash out&lt;/td&gt;
-      &lt;td&gt;10&lt;/td&gt;
-      &lt;td&gt;77 °C&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
 &lt;h3 class=&quot;section-title&quot; id=&quot;2-boil&quot;&gt;2. Boil&lt;/h3&gt;
-
-&lt;h3 id=&quot;hop-schedule&quot;&gt;Hop Schedule&lt;/h3&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -182,14 +157,12 @@
 &lt;/table&gt;
 
 &lt;h3 class=&quot;section-title&quot; id=&quot;3-ferment&quot;&gt;3. Ferment&lt;/h3&gt;
-&lt;h3 id=&quot;yeast&quot;&gt;Yeast&lt;/h3&gt;
-&lt;p&gt;Safale US05&lt;/p&gt;
 
 &lt;hr /&gt;
 </description>
         <pubDate>Fri, 28 Jul 2017 22:00:00 +1000</pubDate>
-        <link>http://localhost:4000/ipas/2017/07/28/006-Tropical-IPA.html</link>
-        <guid isPermaLink="true">http://localhost:4000/ipas/2017/07/28/006-Tropical-IPA.html</guid>
+        <link>http://localhost:4000/ipas/2017/07/28/012-Tropical-IPA.html</link>
+        <guid isPermaLink="true">http://localhost:4000/ipas/2017/07/28/012-Tropical-IPA.html</guid>
         
         
         <category>IPAs</category>
@@ -197,11 +170,11 @@
       </item>
     
       <item>
-        <title>No.005a - Summer &amp; Salt Gose 🌟</title>
+        <title>No.011a ・ Summer &amp; Salt Gose 🌟</title>
         <description>&lt;figure&gt;
 
 
-    &lt;img src=&quot;/assets/images/005a_gose.jpg&quot; /&gt;
+    &lt;img src=&quot;/assets/images/011a_gose.jpg&quot; /&gt;
 
 &lt;/figure&gt;
 
@@ -213,9 +186,13 @@
 
 &lt;h2 id=&quot;recipe&quot;&gt;Recipe&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Vol:&lt;/strong&gt; 10L (Half batch)&lt;br /&gt;
+&lt;strong&gt;Mash:&lt;/strong&gt;  45 min @ 50°C | 45 min @ 65°C&lt;br /&gt;
+&lt;strong&gt;Yeast:&lt;/strong&gt;&lt;br /&gt;
+&lt;em&gt;Sour&lt;/em&gt;- Lactobacillus Plantarum (100 billion cells)&lt;br /&gt;
+&lt;em&gt;Ferment&lt;/em&gt;- Safale S04 English Ale &lt;br /&gt;
 &lt;strong&gt;Targets:&lt;/strong&gt;&lt;/p&gt;
 
-&lt;table&gt;
+&lt;table class=&quot;table&quot;&gt;
   &lt;thead&gt;
     &lt;tr&gt;
       &lt;th&gt;OG&lt;/th&gt;
@@ -234,15 +211,14 @@
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;h3 class=&quot;section-title&quot; id=&quot;1-mash&quot;&gt;1. Mash&lt;/h3&gt;
-&lt;h3 id=&quot;grist&quot;&gt;Grist&lt;/h3&gt;
+&lt;p class=&quot;section-title&quot;&gt;&lt;strong&gt;1. Mash&lt;/strong&gt;&lt;/p&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
       &lt;th&gt;Malt&lt;/th&gt;
       &lt;th&gt;Weight&lt;/th&gt;
-      &lt;th&gt;% Bill&lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -274,34 +250,16 @@
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;h3 id=&quot;mash-steps&quot;&gt;Mash Steps&lt;/h3&gt;
+&lt;p class=&quot;section-title&quot;&gt;&lt;strong&gt;2. Pasteurise&lt;/strong&gt;
+Boil for 15 min.&lt;/p&gt;
 
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Step&lt;/th&gt;
-      &lt;th&gt;Time&lt;/th&gt;
-      &lt;th&gt;Temp&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;First Infusion&lt;/td&gt;
-      &lt;td&gt;45 min&lt;/td&gt;
-      &lt;td&gt;50 °C&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Second Infusion&lt;/td&gt;
-      &lt;td&gt;45 min&lt;/td&gt;
-      &lt;td&gt;65 °C&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
+&lt;p class=&quot;section-title&quot;&gt;&lt;strong&gt;3. Kettle Sour&lt;/strong&gt;
+Pitch Lactobacillus Plantarum&lt;/p&gt;
 
-&lt;h3 class=&quot;section-title&quot; id=&quot;2-boil&quot;&gt;2. Boil&lt;/h3&gt;
-&lt;p&gt;15 min to pasteurise the wort&lt;/p&gt;
+&lt;p class=&quot;section-title&quot;&gt;&lt;strong&gt;4. Boil&lt;/strong&gt;
+Optional 60 min boil.&lt;/p&gt;
 
-&lt;h3 id=&quot;hop-schedule&quot;&gt;Hop Schedule&lt;/h3&gt;
+&lt;p class=&quot;section-title&quot;&gt;&lt;strong&gt;5. Ferment &amp;amp; Dry Hop&lt;/strong&gt;&lt;/p&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -322,11 +280,6 @@
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;h3 class=&quot;section-title&quot; id=&quot;3-ferment&quot;&gt;3. Ferment&lt;/h3&gt;
-&lt;h3 id=&quot;yeast&quot;&gt;Yeast&lt;/h3&gt;
-&lt;p&gt;Lactobacillus Plantarum (100 billion cells) 48 hours&lt;br /&gt;
-Safale S04 English Ale&lt;/p&gt;
-
 &lt;hr /&gt;
 
 &lt;h2 id=&quot;method&quot;&gt;Method&lt;/h2&gt;
@@ -344,38 +297,36 @@ Safale S04 English Ale&lt;/p&gt;
   &lt;li&gt;&lt;strong&gt;Mash&lt;/strong&gt; grains&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Boil for 15 minutes&lt;/strong&gt; to pasturise the wort.&lt;br /&gt;
 (I added salt at this point.)&lt;/li&gt;
-  &lt;li&gt;Cool to room temperature and &lt;strong&gt;pitch lactobacillus plantarum&lt;/strong&gt; directly into the wort.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Purge air&lt;/strong&gt;. I did this by pushing glad wrap down onto the surface of the wort to form a seal. Cover kettle with a lid.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Leave for 48 hours&lt;/strong&gt;.&lt;/li&gt;
-&lt;/ol&gt;
+  &lt;li&gt;Cool to room temperature and &lt;strong&gt;pitch lactobacillus plantarum&lt;/strong&gt; directly into the wort.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;strong&gt;Purge air&lt;/strong&gt;. I did this by pushing glad wrap down onto the surface of the wort to form a seal. Cover kettle with a lid.&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;Leave for 48 hours&lt;/strong&gt;.&lt;/li&gt;
+    &lt;/ul&gt;
 
-&lt;p&gt;Then continue as per usual:&lt;/p&gt;
-
-&lt;ol&gt;
+    &lt;p&gt;Then continue as per usual:&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;Boil 60 min (optional).&lt;/li&gt;
-  &lt;li&gt;Cool. Transfer to fermenter.&lt;/li&gt;
-  &lt;li&gt;Pitch yeast. In this case, Safale S04.&lt;/li&gt;
   &lt;li&gt;Ferment, dry hop, cold crash with gelatin, etc.&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;hr /&gt;
 &lt;h2 id=&quot;result&quot;&gt;Result&lt;/h2&gt;
 
-&lt;h3 id=&quot;005b---passionfruit-gose&quot;&gt;005b - Passionfruit Gose&lt;/h3&gt;
+&lt;h3 id=&quot;011b---passionfruit-gose&quot;&gt;011b - Passionfruit Gose&lt;/h3&gt;
 &lt;p&gt;I ended up brewing this one as a split batch. The other half was fermented with Saison yeast, no hops and passionfruit pulp to the fermenter added after primary fermentation. Apart from the fact that passionfruit completely dominated the flavour on that batch, the passionfruit Gose turned out a lot drier, making the saltiness more pronounced. It was drinkable but would have been far better had there been some residual sweetness.&lt;/p&gt;
 
 &lt;p&gt;My mate who works for a craft brewery in Brisbane tells me that the Gose style has oft been misinterpreted as being straight up salty and actually is supposed to have a balance between sweet and salt. That confirms to me what this split batch proved; &lt;strong&gt;use a yeast that will let your Gose finish sweet, not dry.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;The Summer &amp;amp; Salt Gose has an ever so slight Galaxy hop / passionfruit tinge to it already. This beer would be great dry hopped with Galaxy, and would a far more nuanced way to achieve notes of passionfruit rather than using fruit pulp.&lt;/p&gt;
+&lt;p&gt;The Summer &amp;amp; Salt Gose has an ever so slight Galaxy hop / passionfruit tinge to it already. This beer would be great dry hopped with Galaxy, which would be a far more nuanced way to achieve notes of passionfruit rather than using fruit pulp.&lt;/p&gt;
 
-&lt;h3 id=&quot;005a---summer--salt-gose&quot;&gt;005a - Summer &amp;amp; Salt Gose&lt;/h3&gt;
+&lt;h3 id=&quot;011a---summer--salt-gose&quot;&gt;011a - Summer &amp;amp; Salt Gose&lt;/h3&gt;
 &lt;p&gt;The Summer &amp;amp; Salt Gose turned out fantastic! I am an absolute sucker for Nelson Sauvin hops and the sparkling wine character it imparts. This was a little hop bomb when fresh! It had fairly good head retention (possibly in part to the CaraPils) and was delicate but not at all lacking in body. This was both the best tasting and most enjoyable beer I have brewed thus far. I will definately attempt it again and can see plenty of scope to play with the recipe.&lt;/p&gt;
 
 &lt;p&gt;Other ways you could take this recipe include; dropping the salt and doing a Berliner Weisse version, substituting in alternate hops (Kohatu and Motueka spring to mind), and using Brett - staying true to Bear Flavoured’s &lt;a href=&quot;http://www.bear-flavored.com/2015/02/nelson-sauvin-dry-hopped-no-boil-sour.html&quot;&gt;original recipe&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Fri, 12 May 2017 22:00:00 +1000</pubDate>
-        <link>http://localhost:4000/sours/favourites/2017/05/12/005a-Summer-and-Salt.html</link>
-        <guid isPermaLink="true">http://localhost:4000/sours/favourites/2017/05/12/005a-Summer-and-Salt.html</guid>
+        <link>http://localhost:4000/sours/favourites/2017/05/12/011a-Summer-and-Salt.html</link>
+        <guid isPermaLink="true">http://localhost:4000/sours/favourites/2017/05/12/011a-Summer-and-Salt.html</guid>
         
         
         <category>sours</category>
@@ -385,16 +336,18 @@ Safale S04 English Ale&lt;/p&gt;
       </item>
     
       <item>
-        <title>No.004 - Oatmeal Stout</title>
+        <title>No.010 ・ Oatmeal Stout</title>
         <description>&lt;blockquote&gt;
-  &lt;p&gt;&lt;strong&gt;Verdict:&lt;/strong&gt; A straightforward (and malt forward), enjoyable oatmeal stout! I will brew this again, both as is or bittered with Northern Brewer or Columbus hops.&lt;/p&gt;
+  &lt;p&gt;&lt;strong&gt;Verdict:&lt;/strong&gt; A straightforward (and malt forward), enjoyable oatmeal stout! I will brew this again, perhaps with alternative bittering hops.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;h2 id=&quot;recipe&quot;&gt;Recipe&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Vol:&lt;/strong&gt; 10L (Half batch)&lt;br /&gt;
+&lt;strong&gt;Mash:&lt;/strong&gt;  60 min @ 66°C&lt;br /&gt;
+&lt;strong&gt;Yeast:&lt;/strong&gt; Safale S04 English Ale &lt;br /&gt;
 &lt;strong&gt;Targets:&lt;/strong&gt;&lt;/p&gt;
 
-&lt;table&gt;
+&lt;table class=&quot;table&quot;&gt;
   &lt;thead&gt;
     &lt;tr&gt;
       &lt;th&gt;OG&lt;/th&gt;
@@ -414,101 +367,72 @@ Safale S04 English Ale&lt;/p&gt;
 &lt;/table&gt;
 
 &lt;h3 class=&quot;section-title&quot; id=&quot;1-mash&quot;&gt;1. Mash&lt;/h3&gt;
-&lt;h3 id=&quot;grist&quot;&gt;Grist&lt;/h3&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th&gt;Grain&lt;/th&gt;
-      &lt;th&gt;Weight (g)&lt;/th&gt;
-      &lt;th&gt;% Bill&lt;/th&gt;
+      &lt;th&gt;Malt&lt;/th&gt;
+      &lt;th&gt;Weight&lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
       &lt;td&gt;Ale Malt&lt;/td&gt;
-      &lt;td&gt;900&lt;/td&gt;
-      &lt;td&gt;71%&lt;/td&gt;
+      &lt;td&gt;900 g&lt;/td&gt;
+      &lt;td&gt;(71%)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Crystal Medium&lt;/td&gt;
-      &lt;td&gt;110&lt;/td&gt;
-      &lt;td&gt;9%&lt;/td&gt;
+      &lt;td&gt;110 g&lt;/td&gt;
+      &lt;td&gt;(9%)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Oats Flaked&lt;/td&gt;
-      &lt;td&gt;125&lt;/td&gt;
-      &lt;td&gt;10%&lt;/td&gt;
+      &lt;td&gt;125 g&lt;/td&gt;
+      &lt;td&gt;(10%)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Chocolate Malt&lt;/td&gt;
-      &lt;td&gt;70&lt;/td&gt;
-      &lt;td&gt;6%&lt;/td&gt;
+      &lt;td&gt;70  g&lt;/td&gt;
+      &lt;td&gt;(6%)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Special Roast&lt;/td&gt;
-      &lt;td&gt;60&lt;/td&gt;
-      &lt;td&gt;5%&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h3 id=&quot;mash-steps&quot;&gt;Mash Steps&lt;/h3&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Step&lt;/th&gt;
-      &lt;th&gt;time&lt;/th&gt;
-      &lt;th&gt;temp&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Mash&lt;/td&gt;
-      &lt;td&gt;60&lt;/td&gt;
-      &lt;td&gt;66 °C&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Mash out&lt;/td&gt;
-      &lt;td&gt;10&lt;/td&gt;
-      &lt;td&gt;77 °C&lt;/td&gt;
+      &lt;td&gt;60  g&lt;/td&gt;
+      &lt;td&gt;(5%)&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 
 &lt;h3 class=&quot;section-title&quot; id=&quot;2-boil&quot;&gt;2. Boil&lt;/h3&gt;
 
-&lt;h3 id=&quot;hop-schedule&quot;&gt;Hop Schedule&lt;/h3&gt;
-
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
       &lt;th&gt;Hop&lt;/th&gt;
-      &lt;th&gt;time&lt;/th&gt;
-      &lt;th&gt;weight (g)&lt;/th&gt;
-      &lt;th&gt;AA %&lt;/th&gt;
+      &lt;th&gt;Time&lt;/th&gt;
+      &lt;th&gt;Weight&lt;/th&gt;
+      &lt;th&gt;AA%&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
       &lt;td&gt;Goldings&lt;/td&gt;
       &lt;td&gt;45&lt;/td&gt;
-      &lt;td&gt;12&lt;/td&gt;
+      &lt;td&gt;12 g&lt;/td&gt;
       &lt;td&gt;5&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 
 &lt;h3 class=&quot;section-title&quot; id=&quot;3-ferment&quot;&gt;3. Ferment&lt;/h3&gt;
-&lt;h3 id=&quot;yeast&quot;&gt;Yeast&lt;/h3&gt;
-&lt;p&gt;Safale S04 English Ale&lt;/p&gt;
 
 &lt;hr /&gt;
 </description>
         <pubDate>Tue, 09 May 2017 22:00:00 +1000</pubDate>
-        <link>http://localhost:4000/stouts/2017/05/09/004-Oatmeat-Stout.html</link>
-        <guid isPermaLink="true">http://localhost:4000/stouts/2017/05/09/004-Oatmeat-Stout.html</guid>
+        <link>http://localhost:4000/stouts/2017/05/09/010-Oatmeat-Stout.html</link>
+        <guid isPermaLink="true">http://localhost:4000/stouts/2017/05/09/010-Oatmeat-Stout.html</guid>
         
         
         <category>stouts</category>
@@ -516,11 +440,11 @@ Safale S04 English Ale&lt;/p&gt;
       </item>
     
       <item>
-        <title>No.003 - Son of a Punk 🌟</title>
+        <title>No.009 ・ Son of a Punk 🌟</title>
         <description>&lt;figure&gt;
 
 
-    &lt;img src=&quot;/assets/images/003_punk.jpg&quot; /&gt;
+    &lt;img src=&quot;/assets/images/009_punk.jpg&quot; /&gt;
 
 &lt;/figure&gt;
 
@@ -530,9 +454,11 @@ Safale S04 English Ale&lt;/p&gt;
 
 &lt;h2 id=&quot;recipe&quot;&gt;Recipe&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Vol:&lt;/strong&gt; 10L (Half batch)&lt;br /&gt;
+&lt;strong&gt;Mash:&lt;/strong&gt;  60 min @ 66°C&lt;br /&gt;
+&lt;strong&gt;Yeast:&lt;/strong&gt; Safale US05 American Ale&lt;br /&gt;
 &lt;strong&gt;Targets:&lt;/strong&gt;&lt;/p&gt;
 
-&lt;table&gt;
+&lt;table class=&quot;table&quot;&gt;
   &lt;thead&gt;
     &lt;tr&gt;
       &lt;th&gt;OG&lt;/th&gt;
@@ -546,13 +472,12 @@ Safale S04 English Ale&lt;/p&gt;
       &lt;td&gt;1.055&lt;/td&gt;
       &lt;td&gt;1.014&lt;/td&gt;
       &lt;td&gt;5.4%&lt;/td&gt;
-      &lt;td&gt;-&lt;/td&gt;
+      &lt;td&gt;56&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 
 &lt;h3 class=&quot;section-title&quot; id=&quot;1-mash&quot;&gt;1. Mash&lt;/h3&gt;
-&lt;h3 id=&quot;grist&quot;&gt;Grist&lt;/h3&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -576,40 +501,14 @@ Safale S04 English Ale&lt;/p&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;h3 id=&quot;mash-steps&quot;&gt;Mash Steps&lt;/h3&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Step&lt;/th&gt;
-      &lt;th&gt;Time&lt;/th&gt;
-      &lt;th&gt;Temp&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Mash&lt;/td&gt;
-      &lt;td&gt;60 min&lt;/td&gt;
-      &lt;td&gt;66 °C&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Mash out&lt;/td&gt;
-      &lt;td&gt;10 min&lt;/td&gt;
-      &lt;td&gt;77 °C&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
 &lt;h3 class=&quot;section-title&quot; id=&quot;2-boil&quot;&gt;2. Boil&lt;/h3&gt;
-
-&lt;h3 id=&quot;hop-schedule&quot;&gt;Hop Schedule&lt;/h3&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
       &lt;th&gt;Hop&lt;/th&gt;
-      &lt;th&gt;time&lt;/th&gt;
-      &lt;th&gt;weight (g)&lt;/th&gt;
+      &lt;th&gt;Time&lt;/th&gt;
+      &lt;th&gt;Weight&lt;/th&gt;
       &lt;th&gt;AA %&lt;/th&gt;
       &lt;th&gt;IBU&lt;/th&gt;
     &lt;/tr&gt;
@@ -618,98 +517,98 @@ Safale S04 English Ale&lt;/p&gt;
     &lt;tr&gt;
       &lt;td&gt;Chinook&lt;/td&gt;
       &lt;td&gt;60&lt;/td&gt;
-      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;10 g&lt;/td&gt;
       &lt;td&gt;12&lt;/td&gt;
       &lt;td&gt;28&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Ahtanum&lt;/td&gt;
       &lt;td&gt;60&lt;/td&gt;
-      &lt;td&gt;6&lt;/td&gt;
+      &lt;td&gt;6  g&lt;/td&gt;
       &lt;td&gt;5.2&lt;/td&gt;
       &lt;td&gt;7&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Chinook&lt;/td&gt;
       &lt;td&gt;20&lt;/td&gt;
-      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;10 g&lt;/td&gt;
       &lt;td&gt;12&lt;/td&gt;
       &lt;td&gt;17&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Ahtanum&lt;/td&gt;
       &lt;td&gt;20&lt;/td&gt;
-      &lt;td&gt;6&lt;/td&gt;
+      &lt;td&gt;6  g&lt;/td&gt;
       &lt;td&gt;5.2&lt;/td&gt;
       &lt;td&gt;4&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Chinook&lt;/td&gt;
       &lt;td&gt;0&lt;/td&gt;
-      &lt;td&gt;14&lt;/td&gt;
+      &lt;td&gt;14 g&lt;/td&gt;
       &lt;td&gt;12&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Ahtanum&lt;/td&gt;
       &lt;td&gt;0&lt;/td&gt;
-      &lt;td&gt;6&lt;/td&gt;
+      &lt;td&gt;6  g&lt;/td&gt;
       &lt;td&gt;5.2&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Simcoe&lt;/td&gt;
       &lt;td&gt;0&lt;/td&gt;
-      &lt;td&gt;6&lt;/td&gt;
+      &lt;td&gt;6  g&lt;/td&gt;
       &lt;td&gt;13&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Nelson Sauvin&lt;/td&gt;
       &lt;td&gt;0&lt;/td&gt;
-      &lt;td&gt;6&lt;/td&gt;
+      &lt;td&gt;6  g&lt;/td&gt;
       &lt;td&gt;11.5&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Chinook&lt;/td&gt;
       &lt;td&gt;dry hop&lt;/td&gt;
-      &lt;td&gt;24&lt;/td&gt;
+      &lt;td&gt;24 g&lt;/td&gt;
       &lt;td&gt;12&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Ahtanum&lt;/td&gt;
       &lt;td&gt;dry hop&lt;/td&gt;
-      &lt;td&gt;20&lt;/td&gt;
+      &lt;td&gt;20 g&lt;/td&gt;
       &lt;td&gt;5.2&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Simcoe&lt;/td&gt;
       &lt;td&gt;dry hop&lt;/td&gt;
-      &lt;td&gt;20&lt;/td&gt;
+      &lt;td&gt;20 g&lt;/td&gt;
       &lt;td&gt;13&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Nelson Sauvin&lt;/td&gt;
       &lt;td&gt;dry hop&lt;/td&gt;
-      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;10 g&lt;/td&gt;
       &lt;td&gt;11.5&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Cascade&lt;/td&gt;
       &lt;td&gt;dry hop&lt;/td&gt;
-      &lt;td&gt;20&lt;/td&gt;
+      &lt;td&gt;20 g&lt;/td&gt;
       &lt;td&gt;7.8&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Amarillo&lt;/td&gt;
       &lt;td&gt;dry hop&lt;/td&gt;
-      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;5  g&lt;/td&gt;
       &lt;td&gt;8.5&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
@@ -717,12 +616,10 @@ Safale S04 English Ale&lt;/p&gt;
 &lt;/table&gt;
 
 &lt;h3 class=&quot;section-title&quot; id=&quot;3-ferment&quot;&gt;3. Ferment&lt;/h3&gt;
-&lt;h3 id=&quot;yeast&quot;&gt;Yeast&lt;/h3&gt;
-&lt;p&gt;Safale US05 American Ale&lt;/p&gt;
 </description>
         <pubDate>Thu, 06 Apr 2017 22:00:00 +1000</pubDate>
-        <link>http://localhost:4000/ipas/favourites/2017/04/06/003-Son-of-a-Punk.html</link>
-        <guid isPermaLink="true">http://localhost:4000/ipas/favourites/2017/04/06/003-Son-of-a-Punk.html</guid>
+        <link>http://localhost:4000/ipas/favourites/2017/04/06/009-Son-of-a-Punk.html</link>
+        <guid isPermaLink="true">http://localhost:4000/ipas/favourites/2017/04/06/009-Son-of-a-Punk.html</guid>
         
         
         <category>IPAs</category>
@@ -732,11 +629,11 @@ Safale S04 English Ale&lt;/p&gt;
       </item>
     
       <item>
-        <title>No.002 - Session Rye IPA</title>
+        <title>No.008 ・ Session Rye IPA</title>
         <description>&lt;figure&gt;
 
 
-    &lt;img src=&quot;/assets/images/002_rye.jpg&quot; /&gt;
+    &lt;img src=&quot;/assets/images/008_rye.jpg&quot; /&gt;
 
 &lt;/figure&gt;
 
@@ -746,9 +643,11 @@ Safale S04 English Ale&lt;/p&gt;
 
 &lt;h2 id=&quot;recipe&quot;&gt;Recipe&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Vol:&lt;/strong&gt; 10L (Half batch)&lt;br /&gt;
+&lt;strong&gt;Mash:&lt;/strong&gt;  60 min @ 66°C&lt;br /&gt;
+&lt;strong&gt;Yeast:&lt;/strong&gt; Safale US05&lt;br /&gt;
 &lt;strong&gt;Targets:&lt;/strong&gt;&lt;/p&gt;
 
-&lt;table&gt;
+&lt;table class=&quot;table&quot;&gt;
   &lt;thead&gt;
     &lt;tr&gt;
       &lt;th&gt;OG&lt;/th&gt;
@@ -768,69 +667,42 @@ Safale S04 English Ale&lt;/p&gt;
 &lt;/table&gt;
 
 &lt;h3 class=&quot;section-title&quot; id=&quot;1-mash&quot;&gt;1. Mash&lt;/h3&gt;
-&lt;h3 id=&quot;grist&quot;&gt;Grist&lt;/h3&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
       &lt;th&gt;Grain&lt;/th&gt;
-      &lt;th&gt;Weight (g)&lt;/th&gt;
-      &lt;th&gt;% Bill&lt;/th&gt;
+      &lt;th&gt;Weight&lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
       &lt;td&gt;Pale Ale Malt&lt;/td&gt;
-      &lt;td&gt;2000&lt;/td&gt;
-      &lt;td&gt;76%&lt;/td&gt;
+      &lt;td&gt;2000 g&lt;/td&gt;
+      &lt;td&gt;(76%)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Crystal Medium&lt;/td&gt;
-      &lt;td&gt;120&lt;/td&gt;
-      &lt;td&gt;5%&lt;/td&gt;
+      &lt;td&gt;120 g&lt;/td&gt;
+      &lt;td&gt;(5%)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Rye Malt&lt;/td&gt;
-      &lt;td&gt;500&lt;/td&gt;
-      &lt;td&gt;19%&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h3 id=&quot;mash-steps&quot;&gt;Mash Steps&lt;/h3&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Step&lt;/th&gt;
-      &lt;th&gt;time&lt;/th&gt;
-      &lt;th&gt;temp&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Saccharification Rest&lt;/td&gt;
-      &lt;td&gt;60&lt;/td&gt;
-      &lt;td&gt;66 °C&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Mash out&lt;/td&gt;
-      &lt;td&gt;10&lt;/td&gt;
-      &lt;td&gt;77 °C&lt;/td&gt;
+      &lt;td&gt;500 g&lt;/td&gt;
+      &lt;td&gt;(19%)&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 
 &lt;h3 class=&quot;section-title&quot; id=&quot;2-boil&quot;&gt;2. Boil&lt;/h3&gt;
 
-&lt;h3 id=&quot;hop-schedule&quot;&gt;Hop Schedule&lt;/h3&gt;
-
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
       &lt;th&gt;Hop&lt;/th&gt;
-      &lt;th&gt;time&lt;/th&gt;
-      &lt;th&gt;weight (g)&lt;/th&gt;
+      &lt;th&gt;Time&lt;/th&gt;
+      &lt;th&gt;Weight&lt;/th&gt;
       &lt;th&gt;AA %&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
@@ -838,63 +710,61 @@ Safale S04 English Ale&lt;/p&gt;
     &lt;tr&gt;
       &lt;td&gt;Simcoe&lt;/td&gt;
       &lt;td&gt;30&lt;/td&gt;
-      &lt;td&gt;3&lt;/td&gt;
+      &lt;td&gt;3 g&lt;/td&gt;
       &lt;td&gt;13&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;El Dorado&lt;/td&gt;
       &lt;td&gt;15&lt;/td&gt;
-      &lt;td&gt;6&lt;/td&gt;
+      &lt;td&gt;6 g&lt;/td&gt;
       &lt;td&gt;16&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Simcoe&lt;/td&gt;
       &lt;td&gt;15&lt;/td&gt;
-      &lt;td&gt;6&lt;/td&gt;
+      &lt;td&gt;6 g&lt;/td&gt;
       &lt;td&gt;13&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;El Dorado&lt;/td&gt;
       &lt;td&gt;0&lt;/td&gt;
-      &lt;td&gt;14&lt;/td&gt;
+      &lt;td&gt;14 g&lt;/td&gt;
       &lt;td&gt;16&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Ahtanum&lt;/td&gt;
       &lt;td&gt;0&lt;/td&gt;
-      &lt;td&gt;14&lt;/td&gt;
+      &lt;td&gt;14 g&lt;/td&gt;
       &lt;td&gt;5.2&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Citra&lt;/td&gt;
       &lt;td&gt;0&lt;/td&gt;
-      &lt;td&gt;14&lt;/td&gt;
+      &lt;td&gt;14 g&lt;/td&gt;
       &lt;td&gt;11.1&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Amarillo&lt;/td&gt;
       &lt;td&gt;0&lt;/td&gt;
-      &lt;td&gt;14&lt;/td&gt;
+      &lt;td&gt;14 g&lt;/td&gt;
       &lt;td&gt;8.5&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;El Dorado&lt;/td&gt;
       &lt;td&gt;dry hop&lt;/td&gt;
-      &lt;td&gt;30&lt;/td&gt;
+      &lt;td&gt;30 g&lt;/td&gt;
       &lt;td&gt;16&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Galaxy&lt;/td&gt;
       &lt;td&gt;dry hop&lt;/td&gt;
-      &lt;td&gt;30&lt;/td&gt;
+      &lt;td&gt;30 g&lt;/td&gt;
       &lt;td&gt;13.4&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 
 &lt;h3 class=&quot;section-title&quot; id=&quot;3-ferment&quot;&gt;3. Ferment&lt;/h3&gt;
-&lt;h3 id=&quot;yeast&quot;&gt;Yeast&lt;/h3&gt;
-&lt;p&gt;Safale US05&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -907,13 +777,49 @@ Safale S04 English Ale&lt;/p&gt;
 &lt;p&gt;Basically there was too much spice and not enough aroma for my liking. Back to the drawing board with these notes in mind:&lt;/p&gt;
 &lt;ol&gt;
   &lt;li&gt;Back off on the Rye Malt. I’d aim for 10% of the malt bill, no more than 12% tops.&lt;/li&gt;
-  &lt;li&gt;This was a kind of confusing medley of hops and next time I’d keep it more subtle. For example, straight citrus hops would be great (Amarillo, Cascade, Citra). Or perhaps the floral note of Centennial would contrast well against rye’s spice. Pacifica could be another great option for a marmalade &amp;amp; toast like flavour.&lt;/li&gt;
+  &lt;li&gt;This was a confusing medley of hops and next time I’d keep it more subtle. For example, straight citrus hops would be great (Amarillo, Cascade, Citra). Or perhaps the floral note of Centennial would contrast well against rye’s spice. Pacifica could be another great option for a marmalade &amp;amp; toast like flavour.&lt;/li&gt;
   &lt;li&gt;I’d stay away from resinous hops (Simcoe, El Dorado) in combination with Rye. To me, the note of resin contends with Rye - resulting in too much harshness which I perceive as tasting like tannins.&lt;/li&gt;
 &lt;/ol&gt;
 </description>
         <pubDate>Fri, 31 Mar 2017 22:00:00 +1000</pubDate>
-        <link>http://localhost:4000/ipas/2017/03/31/002-Session-IPA.html</link>
-        <guid isPermaLink="true">http://localhost:4000/ipas/2017/03/31/002-Session-IPA.html</guid>
+        <link>http://localhost:4000/ipas/2017/03/31/008-Session-IPA.html</link>
+        <guid isPermaLink="true">http://localhost:4000/ipas/2017/03/31/008-Session-IPA.html</guid>
+        
+        
+        <category>IPAs</category>
+        
+      </item>
+    
+      <item>
+        <title>No.001 ‑ 007 ・ Previously Stolen Beers</title>
+        <description>&lt;p&gt;My lovely wife, Phoebe, bought me a &lt;a href=&quot;'https://brewsmith.com.au/'&quot;&gt;brewsmith&lt;/a&gt; kit for my birthday in late 2016. After making a couple kit recipes, and another couple partial mash extract beers, I switched to doing all grain BIAB beers. Here are my first half dozen+ all grain batches which turned out with varying success.&lt;/p&gt;
+
+&lt;h2 id=&quot;no001---coffee-stout&quot;&gt;No.001 - Coffee Stout&lt;/h2&gt;
+&lt;p class=&quot;quote&quot;&gt;Stolen from &lt;a href=&quot;'https://www.brewtoad.com/recipes/slanted-coffee-stout-all-grain/'&quot;&gt;atomicbuni&lt;/a&gt; on Brewtoad | &lt;a href=&quot;'https://www.brewtoad.com/recipes/003-coffee-stout'&quot;&gt;Recipe&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This turned out pretty great for my first all grain batch. In future batches I think using whole beans will be the easiest way of adding coffee to the fermenter in the future.&lt;/p&gt;
+
+&lt;h2 id=&quot;no002---pacific-ale&quot;&gt;No.002 - Pacific Ale&lt;/h2&gt;
+&lt;p class=&quot;quote&quot;&gt;Stolen from homebrew forums | &lt;a href=&quot;'https://www.brewtoad.com/recipes/stone-wood-pacific-ale-all-grain-5l'&quot;&gt;Recipe&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;no003---simcoe-ipa&quot;&gt;No.003 - Simcoe IPA&lt;/h2&gt;
+&lt;p class=&quot;quote&quot;&gt;Stolen from Brooklyn Brewshop’s &lt;a href=&quot;'https://www.amazon.com/Brooklyn-Brew-Shops-Beer-Making/dp/0307889203'&quot;&gt;Beer Making Book&lt;/a&gt; | &lt;a href=&quot;'https://www.brewtoad.com/recipes/004-simcoe-ipa'&quot;&gt;Recipe&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;no005---dandelion-session-pale-ale&quot;&gt;No.005 - Dandelion Session Pale Ale&lt;/h2&gt;
+&lt;p class=&quot;quote&quot;&gt;Original recipe | &lt;a href=&quot;'https://www.brewtoad.com/recipes/005-dandelion-summer-ale'&quot;&gt;Recipe&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This was decent for the first beer that I designed. I harvested dandelion from my garden and used the whole plant in this beer. The leaves were used for bittering, I roasted up the roots to add to the mash, and threw in dandelion flowers at flameout. Fun, but a bit of extra work cleaning up the dandelion and preparing it for use.&lt;/p&gt;
+
+&lt;h2 id=&quot;no006---zombie-dust-clone&quot;&gt;No.006 - Zombie Dust Clone&lt;/h2&gt;
+&lt;p class=&quot;quote&quot;&gt;Stolen from &lt;a href=&quot;'https://www.brewtoad.com/recipes/zombie-dust-clone-1-gallon'&quot;&gt;Brewtoad&lt;/a&gt; | &lt;a href=&quot;'https://www.brewtoad.com/recipes/zombie-dust-clone-10l'&quot;&gt;Recipe&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;no007---nelson-galaxy-pale-ale&quot;&gt;No.007 - Nelson Galaxy Pale Ale&lt;/h2&gt;
+
+&lt;p&gt;This was a dumper and I dub it a &lt;em&gt;Fail Ale&lt;/em&gt;. I brewed this one of the hottest days of the year and failed to regulate temperature swing. The yeast stressed out and the resulting beer tasted pretty harsh. After this batch I invested in a temperature controller and fridge and since my beers have significantly improved.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 01 Mar 2017 22:00:00 +1000</pubDate>
+        <link>http://localhost:4000/ipas/2017/03/01/000-Previously-Stolen.html</link>
+        <guid isPermaLink="true">http://localhost:4000/ipas/2017/03/01/000-Previously-Stolen.html</guid>
         
         
         <category>IPAs</category>

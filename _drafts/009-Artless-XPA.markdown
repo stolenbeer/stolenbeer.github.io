@@ -2,8 +2,8 @@
 layout: post
 title:  "No.009 - Artless XPA"
 subtitle: ""
-date:   2017-MM-DD 12:00:00
-categories: [IPAs] [Pale Ales]
+date:   2017-03-31 12:00:00
+categories: [IPAs]
 ---
 
 ## ?PA ##
@@ -17,10 +17,18 @@ Have you noticed that a lot of "IPAs" technically saddle somewhere between APA a
 | American Pale Ale | 30 - 45+ | 5 - 14 | 4.5 - 6%   |
 | American IPA      | 40 - 60+ | 6 - 15 | 5.5 - 7.5% |
 
-To further muddy the space between the two, enter the XPA. Extra Pale Ale. I'm not sure if it's supposed to be *Extra Pale* Ale or an *Extra* Pale Ale.
+To further muddy the space between the two, enter the XPA. Extra Pale Ale. As XPA isn't a defined style, it's unclear whether it is supposed to be *Extra Pale* Ale or an *Extra* Pale Ale.
+
+...
+
+I think I'll just call hopped up pales / sessionable IPA's either ?PAs or %PAs instead.
+
+---
 
 ## Recipe ##
 **Vol:** 10L (Half batch)
+**Mash:** 60 min @ 60°C
+**Yeast:** Safale US05
 **Targets:**
 
 | OG | FG | ABV | IBU | EBC |
@@ -29,7 +37,6 @@ To further muddy the space between the two, enter the XPA. Extra Pale Ale. I'm n
 
 {:.section-title}
 ### 1. Mash ###
-### Grist ###
 
 | Grain             | Weight      |         |
 |-------------------|-------------|---------|
@@ -37,17 +44,8 @@ To further muddy the space between the two, enter the XPA. Extra Pale Ale. I'm n
 | Wheat Malt        | 460 g       | (18.7%) |
 | CaraMunich        | 100 g       | (4.1%)  |
 
-### Mash Steps ###
-
-| Step            | time | temp  |
-|-----------------|------|-------|
-| Mash            | 60   | 65 °C |
-
 {:.section-title}
-### 2. Boil ###
-
-### Hop Schedule ###
-
+### 2. Hop Boil ###
 
 | Hop        | time    | weight (g)  | AA % | IBU |
 |------------|---------|-------------|------|------------|
@@ -61,5 +59,5 @@ To further muddy the space between the two, enter the XPA. Extra Pale Ale. I'm n
 
 {:.section-title}
 ### 3. Ferment  ###
-### Yeast ###
-Safale US05
+
+---

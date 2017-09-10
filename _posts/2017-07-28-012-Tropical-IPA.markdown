@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "No.006 - Tropical IPA"
+title:  "No.012 ・ Tropical IPA"
 subtitle: ""
 date:   2017-07-28 12:00:00
 categories: [IPAs]
@@ -12,15 +12,17 @@ categories: [IPAs]
 
 ## Recipe ##
 **Vol:** 10L (Half batch)  
+**Mash:**  66°C for 60 min  
+**Yeast:** Safale US05 American Ale  
 **Targets:**
 
+{:.table}
 | OG | FG | ABV | IBU |
 |----|----|-----|-----|
 | 1.049 | 1.012 | 4.8% | 47 |
 
 {:.section-title}
 ### 1. Mash ###
-### Grist ###
 
 | Grain           | Weight      |         |
 |-----------------|-------------|---------|
@@ -28,17 +30,8 @@ categories: [IPAs]
 | Malted Oats     | 140 g       | (6.1%)  |
 | CaraMunich      | 140 g       | (6.1%)  |
 
-### Mash Steps ###
-
-| Step            | time | temp  |
-|-----------------|------|-------|
-| Mash            | 60   | 66 °C |
-| Mash out        | 10   | 77 °C |
-
 {:.section-title}
 ### 2. Boil ###
-
-### Hop Schedule ###
 
 | Hop           | time            | weight (g) | AA % | IBU        |
 |---------------|-----------------|------------|------|------------|
@@ -55,7 +48,5 @@ categories: [IPAs]
 
 {:.section-title}
 ### 3. Ferment  ###
-### Yeast ###
-Safale US05
 
 ---

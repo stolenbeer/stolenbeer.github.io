@@ -17,6 +17,11 @@ a {
   font-weight: 600;
   text-decoration: none; }
 
+p a {
+  color: tomato; }
+  p a:hover {
+    color: firebrick; }
+
 p, table, ul, li {
   font-size: 18px;
   line-height: 32px;
@@ -136,6 +141,7 @@ strong {
   font-weight: 700; }
 
 .post-teaser__title {
+  font-weight: 400;
   font-size: 22px;
   color: #333333; }
 
@@ -259,22 +265,38 @@ strong {
 table {
   font-size: 16px; }
 
+/*table*/
 th {
   text-align: left;
-  background-color: #cdcdcd; }
+  background-color: #e6e6e6; }
 
 td, th {
-  padding: 0 1.5rem; }
+  padding: 0 1.0rem;
+  text-align: center; }
 
 td, th, tr {
   border-bottom: 1px solid #262626; }
 
 td:first-of-type, th:first-of-type {
   border-left: none;
-  padding-left: 0.5rem; }
+  padding-left: 0.5rem;
+  text-align: left; }
 
-.section-title {
-  font-size: 24px;
+td:last-of-type, th:last-of-type {
+  padding-right: 0.5rem; }
+
+.table th {
+  background: none; }
+.table td, .table th {
+  padding: 0 1.0rem; }
+.table td, .table th, .table tr {
+  border: none;
+  border-left: 1px solid #262626;
+  border-right: 1px solid #262626; }
+.table td:first-of-type, .table th:first-of-type {
+  text-align: center; }
+
+.section-title, .section-title strong {
   color: #cdcdcd; }
 
 blockquote {
@@ -283,12 +305,18 @@ blockquote {
   margin-left: auto;
   margin-right: auto; }
 
-blockquote p {
-  font-family: "quote";
+blockquote p, .quote {
   font-size: 90%;
+  font-family: "quote";
   line-height: 38px;
   padding: 5px 0;
   border-bottom: 1px dashed #828282; }
+
+.quote {
+  display: inline;
+  font-size: 14px;
+  color: #828282;
+  font-weight: 300; }
 
 .wrapper {
   max-width: 750px;
@@ -328,6 +356,9 @@ hr {
 @media (min-width: 800px) {
   .lead {
     padding: 60px 120px; } }
+p + h1, p + h2, p + h3, p + h4, p + h5 {
+  margin-top: 30px; }
+
 /* Source: http://codepen.io/bulby97/pen/fcvay */
 .glitch {
   position: relative;

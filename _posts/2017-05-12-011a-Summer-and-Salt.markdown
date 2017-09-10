@@ -1,5 +1,5 @@
 ---
-title: "No.005a - Summer & Salt Gose 🌟"
+title: "No.011a ・ Summer & Salt Gose 🌟"
 subtitle: "With Nelson Sauvin"
 layout: post
 categories: [sours, favourites]
@@ -7,7 +7,7 @@ date: 2017-05-12 12:00:00
 
 ---
 
-{% include image name="005a_gose.jpg" %}
+{% include image name="011a_gose.jpg" %}
 
 {:.lead}
 A refreshing summertime brew perfect for an afternoon spent on the beach. Light, salty, sour with a big hoppy nose. Spiked full of white wine and tropical fruit flavours - kiwifruit, pineapple, lime zest and lemonades. Best enjoyed fresh before the aroma fades!
@@ -16,17 +16,21 @@ A refreshing summertime brew perfect for an afternoon spent on the beach. Light,
 
 ## Recipe ##
 **Vol:** 10L (Half batch)  
+**Mash:**  45 min @ 50°C | 45 min @ 65°C  
+**Yeast:**  
+*Sour*- Lactobacillus Plantarum (100 billion cells)  
+*Ferment*- Safale S04 English Ale   
 **Targets:**
 
+{:.table}
 | OG | FG | ABV | IBU |
 |----|----|-----|-----|
 | 1.043 | 1.011 | 4.2% | - |
 
 {:.section-title}
-### 1. Mash ###
-### Grist ###
+**1. Mash**
 
-| Malt            | Weight     | % Bill   |
+| Malt            | Weight     |    |
 |-----------------|------------|----------|
 | Pilsner Malt    | 870 g      | (39.7%)  |
 | Wheat Malt      | 870 g      | (39.7%)  |
@@ -34,28 +38,24 @@ A refreshing summertime brew perfect for an afternoon spent on the beach. Light,
 | Acidulated Malt | 150 g      | (6.8%)   |
 | Salt            | 1 tsp      |          |
 
-### Mash Steps ###
-
-| Step            | Time    | Temp  |
-|-----------------|---------|-------|
-| First Infusion  | 45 min  | 50 °C |
-| Second Infusion | 45 min  | 65 °C |
+{:.section-title}
+**2. Pasteurise**
+Boil for 15 min.
 
 {:.section-title}
-### 2. Boil ###
-15 min to pasteurise the wort
+**3. Kettle Sour**
+Pitch Lactobacillus Plantarum
 
-### Hop Schedule ###
+{:.section-title}
+**4. Boil**
+Optional 60 min boil.
+
+{:.section-title}
+**5. Ferment & Dry Hop**
 
 | Hop           | Time    | Weight  | AA%   |
 |---------------|---------|---------|-------|
 | Nelson Sauvin | Dry hop | 70g     | 11.5% |
-
-{:.section-title}
-### 3. Ferment  ###
-### Yeast ###
-Lactobacillus Plantarum (100 billion cells) 48 hours  
-Safale S04 English Ale
 
 ---
 
@@ -74,27 +74,24 @@ I landed upon using a probiotic capsules containing *Lactobacillus Plantarum*; t
 2. **Boil for 15 minutes** to pasturise the wort.  
    (I added salt at this point.)
 3. Cool to room temperature and **pitch lactobacillus plantarum** directly into the wort.
-4. **Purge air**. I did this by pushing glad wrap down onto the surface of the wort to form a seal. Cover kettle with a lid.
-5. **Leave for 48 hours**.
+   - **Purge air**. I did this by pushing glad wrap down onto the surface of the wort to form a seal. Cover kettle with a lid.
+   - **Leave for 48 hours**.
 
-Then continue as per usual:
-
-6. Boil 60 min (optional).
-7. Cool. Transfer to fermenter.
-8. Pitch yeast. In this case, Safale S04.
-9. Ferment, dry hop, cold crash with gelatin, etc.
+   Then continue as per usual:  
+4. Boil 60 min (optional).
+5. Ferment, dry hop, cold crash with gelatin, etc.
 
 ---
 ## Result ##
 
-### 005b - Passionfruit Gose
+### 011b - Passionfruit Gose
 I ended up brewing this one as a split batch. The other half was fermented with Saison yeast, no hops and passionfruit pulp to the fermenter added after primary fermentation. Apart from the fact that passionfruit completely dominated the flavour on that batch, the passionfruit Gose turned out a lot drier, making the saltiness more pronounced. It was drinkable but would have been far better had there been some residual sweetness.
 
 My mate who works for a craft brewery in Brisbane tells me that the Gose style has oft been misinterpreted as being straight up salty and actually is supposed to have a balance between sweet and salt. That confirms to me what this split batch proved; __use a yeast that will let your Gose finish sweet, not dry.__
 
-The Summer & Salt Gose has an ever so slight Galaxy hop / passionfruit tinge to it already. This beer would be great dry hopped with Galaxy, and would a far more nuanced way to achieve notes of passionfruit rather than using fruit pulp.
+The Summer & Salt Gose has an ever so slight Galaxy hop / passionfruit tinge to it already. This beer would be great dry hopped with Galaxy, which would be a far more nuanced way to achieve notes of passionfruit rather than using fruit pulp.
 
-### 005a - Summer & Salt Gose
+### 011a - Summer & Salt Gose
 The Summer & Salt Gose turned out fantastic! I am an absolute sucker for Nelson Sauvin hops and the sparkling wine character it imparts. This was a little hop bomb when fresh! It had fairly good head retention (possibly in part to the CaraPils) and was delicate but not at all lacking in body. This was both the best tasting and most enjoyable beer I have brewed thus far. I will definately attempt it again and can see plenty of scope to play with the recipe.
 
 Other ways you could take this recipe include; dropping the salt and doing a Berliner Weisse version, substituting in alternate hops (Kohatu and Motueka spring to mind), and using Brett - staying true to Bear Flavoured's [original recipe](http://www.bear-flavored.com/2015/02/nelson-sauvin-dry-hopped-no-boil-sour.html).
