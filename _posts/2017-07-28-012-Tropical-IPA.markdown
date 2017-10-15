@@ -33,7 +33,7 @@ categories: [IPAs]
 {:.section-title}
 ### 2. Boil ###
 
-| Hop           | time            | weight (g) | AA % | IBU        |
+| Hop           | Time            | Weight (g) | AA % | IBU        |
 |---------------|-----------------|------------|------|------------|
 | **BOIL**      |                 |            |      |            |
 | Simcoe        | 60              | 14         | 13   | 47         |
@@ -42,9 +42,10 @@ categories: [IPAs]
 | Citra         | 0 min           | 14         | 11.1 |            |
 | Nelson Sauvin | 30 min          | 14         | 11.5 |            |
 | Citra         | 30 min          | 14         | 11.1 |            |
-| Nelson Sauvin | d. hop (7 days) | 10         | 11.5 |            |
-| Citra         | d. hop (7 days) | 7          | 11.1 |            |
-| Amarillo      | d. hop (3 days) | 14         | 8.5  |            |
+| **DRY HOP**   |                 |            |      |            |
+| Nelson Sauvin | 7 days          | 10         | 11.5 |            |
+| Citra         | 7 days          | 7          | 11.1 |            |
+| Amarillo      | 3 days          | 14         | 8.5  |            |
 
 {:.section-title}
 ### 3. Ferment  ###

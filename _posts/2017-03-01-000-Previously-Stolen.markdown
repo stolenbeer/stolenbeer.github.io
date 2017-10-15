@@ -3,7 +3,7 @@ layout: post
 title:  "No.001 ‑ 007 ・ Previously Stolen Beers"
 subtitle: ""
 date:   2017-03-01 12:00:00
-categories: [IPAs]
+categories: [IPAs, stouts, session-beers, pale-ales]
 ---
 
 My lovely wife, Phoebe, bought me a [brewsmith]('https://brewsmith.com.au/') kit for my birthday in late 2016. After making a couple kit recipes, and another couple partial mash extract beers, I switched to doing all grain BIAB beers. Here are my first half dozen+ all grain batches which turned out with varying success.

@@ -6,9 +6,204 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 06 Sep 2017 18:28:48 +1000</pubDate>
-    <lastBuildDate>Wed, 06 Sep 2017 18:28:48 +1000</lastBuildDate>
+    <pubDate>Sun, 15 Oct 2017 18:49:43 +1000</pubDate>
+    <lastBuildDate>Sun, 15 Oct 2017 18:49:43 +1000</lastBuildDate>
     <generator>Jekyll v3.5.1</generator>
+    
+      <item>
+        <title>No.014 ・ Mosaic Red IPA</title>
+        <description>&lt;h2 id=&quot;recipe&quot;&gt;Recipe&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Vol:&lt;/strong&gt; 10L (Half batch)&lt;br /&gt;
+&lt;strong&gt;Mash:&lt;/strong&gt; 60 min @ 66°C&lt;br /&gt;
+&lt;strong&gt;Yeast:&lt;/strong&gt; Safale US05&lt;br /&gt;
+&lt;strong&gt;Targets:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table class=&quot;table&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;OG&lt;/th&gt;
+      &lt;th&gt;FG&lt;/th&gt;
+      &lt;th&gt;ABV&lt;/th&gt;
+      &lt;th&gt;IBU&lt;/th&gt;
+      &lt;th&gt;EBC&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1.061&lt;/td&gt;
+      &lt;td&gt;1.015&lt;/td&gt;
+      &lt;td&gt;6%&lt;/td&gt;
+      &lt;td&gt;41&lt;/td&gt;
+      &lt;td&gt;30&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 class=&quot;section-title&quot; id=&quot;1-mash&quot;&gt;1. Mash&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Grain&lt;/th&gt;
+      &lt;th&gt;Weight&lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Gladfield American Ale&lt;/td&gt;
+      &lt;td&gt;1900 g&lt;/td&gt;
+      &lt;td&gt;64.2%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Gladfield Vienna&lt;/td&gt;
+      &lt;td&gt;600 g&lt;/td&gt;
+      &lt;td&gt;20.3%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Gladfield Toffee Malt&lt;/td&gt;
+      &lt;td&gt;120 g&lt;/td&gt;
+      &lt;td&gt;4.1%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Gladfield RedBack&lt;/td&gt;
+      &lt;td&gt;210 g&lt;/td&gt;
+      &lt;td&gt;7.1%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Gladfield Shepherds Delight&lt;/td&gt;
+      &lt;td&gt;130 g&lt;/td&gt;
+      &lt;td&gt;4.4%&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Target Water Profile&lt;/p&gt;
+
+&lt;table class=&quot;table&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Ca&lt;/th&gt;
+      &lt;th&gt;Mg&lt;/th&gt;
+      &lt;th&gt;Na&lt;/th&gt;
+      &lt;th&gt;&lt;strong&gt;Cl&lt;/strong&gt;&lt;/th&gt;
+      &lt;th&gt;&lt;strong&gt;SO4&lt;/strong&gt;&lt;/th&gt;
+      &lt;th&gt;&lt;strong&gt;Cl:SO4&lt;/strong&gt;&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;110&lt;/td&gt;
+      &lt;td&gt;19&lt;/td&gt;
+      &lt;td&gt;14&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;50&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;275&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;0.18&lt;/strong&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 class=&quot;section-title&quot; id=&quot;2-hop-boil&quot;&gt;2. Hop Boil&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Hop&lt;/th&gt;
+      &lt;th&gt;Time&lt;/th&gt;
+      &lt;th&gt;Weight (g)&lt;/th&gt;
+      &lt;th&gt;AA %&lt;/th&gt;
+      &lt;th&gt;IBU&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Columbus&lt;/td&gt;
+      &lt;td&gt;60&lt;/td&gt;
+      &lt;td&gt;7&lt;/td&gt;
+      &lt;td&gt;14.5&lt;/td&gt;
+      &lt;td&gt;22&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Centennial&lt;/td&gt;
+      &lt;td&gt;15&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;9.7&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Mosaic&lt;/td&gt;
+      &lt;td&gt;15&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;12.5&lt;/td&gt;
+      &lt;td&gt;13&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Centennial&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;20&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Mosaic&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;20&lt;/td&gt;
+      &lt;td&gt;12.5&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Columbus&lt;/td&gt;
+      &lt;td&gt;dry hop&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;13.5&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Centennial&lt;/td&gt;
+      &lt;td&gt;dry hop&lt;/td&gt;
+      &lt;td&gt;20&lt;/td&gt;
+      &lt;td&gt;9.7&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Mosaic&lt;/td&gt;
+      &lt;td&gt;dry hop&lt;/td&gt;
+      &lt;td&gt;20&lt;/td&gt;
+      &lt;td&gt;12.5&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 class=&quot;section-title&quot; id=&quot;3-ferment&quot;&gt;3. Ferment&lt;/h3&gt;
+
+&lt;hr /&gt;
+&lt;h2 id=&quot;brew-log&quot;&gt;Brew Log&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Water:&lt;/strong&gt; Rainwater (assumed 0 minerals) adjusted to achieve target water profile:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;5.1g Gypsum&lt;/li&gt;
+  &lt;li&gt;1.5g CaCl2&lt;/li&gt;
+  &lt;li&gt;3g Epsom salt&lt;/li&gt;
+  &lt;li&gt;0.75 Baking Soda&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Mash:&lt;/strong&gt; Mashed in and held at 65°C for 60 min.&lt;br /&gt;
+&lt;strong&gt;Boil:&lt;/strong&gt; As per recipe.&lt;br /&gt;
+Cooled wort overnight in water bath.&lt;br /&gt;
+Pitched 6g Safale US05 @ room temp.&lt;br /&gt;
+Transfered fermenter to fridge set to 18°C.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;OG:&lt;/strong&gt; 1.060 (-1 point)&lt;br /&gt;
+Day 11: 8.3 Brix, SG 1.016, ABV 5.6%&lt;/p&gt;
+</description>
+        <pubDate>Fri, 01 Sep 2017 22:00:00 +1000</pubDate>
+        <link>http://localhost:4000/ipas/2017/09/01/014-Red-Mosaic-IPA.html</link>
+        <guid isPermaLink="true">http://localhost:4000/ipas/2017/09/01/014-Red-Mosaic-IPA.html</guid>
+        
+        
+        <category>IPAs</category>
+        
+      </item>
     
       <item>
         <title>No.012 ・ Tropical IPA</title>
@@ -76,8 +271,8 @@
   &lt;thead&gt;
     &lt;tr&gt;
       &lt;th&gt;Hop&lt;/th&gt;
-      &lt;th&gt;time&lt;/th&gt;
-      &lt;th&gt;weight (g)&lt;/th&gt;
+      &lt;th&gt;Time&lt;/th&gt;
+      &lt;th&gt;Weight (g)&lt;/th&gt;
       &lt;th&gt;AA %&lt;/th&gt;
       &lt;th&gt;IBU&lt;/th&gt;
     &lt;/tr&gt;
@@ -133,22 +328,29 @@
       &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;DRY HOP&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
       &lt;td&gt;Nelson Sauvin&lt;/td&gt;
-      &lt;td&gt;d. hop (7 days)&lt;/td&gt;
+      &lt;td&gt;7 days&lt;/td&gt;
       &lt;td&gt;10&lt;/td&gt;
       &lt;td&gt;11.5&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Citra&lt;/td&gt;
-      &lt;td&gt;d. hop (7 days)&lt;/td&gt;
+      &lt;td&gt;7 days&lt;/td&gt;
       &lt;td&gt;7&lt;/td&gt;
       &lt;td&gt;11.1&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Amarillo&lt;/td&gt;
-      &lt;td&gt;d. hop (3 days)&lt;/td&gt;
+      &lt;td&gt;3 days&lt;/td&gt;
       &lt;td&gt;14&lt;/td&gt;
       &lt;td&gt;8.5&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
@@ -818,11 +1020,17 @@ Optional 60 min boil.&lt;/p&gt;
 &lt;p&gt;This was a dumper and I dub it a &lt;em&gt;Fail Ale&lt;/em&gt;. I brewed this one of the hottest days of the year and failed to regulate temperature swing. The yeast stressed out and the resulting beer tasted pretty harsh. After this batch I invested in a temperature controller and fridge and since my beers have significantly improved.&lt;/p&gt;
 </description>
         <pubDate>Wed, 01 Mar 2017 22:00:00 +1000</pubDate>
-        <link>http://localhost:4000/ipas/2017/03/01/000-Previously-Stolen.html</link>
-        <guid isPermaLink="true">http://localhost:4000/ipas/2017/03/01/000-Previously-Stolen.html</guid>
+        <link>http://localhost:4000/ipas/stouts/session-beers/pale-ales/2017/03/01/000-Previously-Stolen.html</link>
+        <guid isPermaLink="true">http://localhost:4000/ipas/stouts/session-beers/pale-ales/2017/03/01/000-Previously-Stolen.html</guid>
         
         
         <category>IPAs</category>
+        
+        <category>stouts</category>
+        
+        <category>session-beers</category>
+        
+        <category>pale-ales</category>
         
       </item>
     

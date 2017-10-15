@@ -263,7 +263,11 @@ strong {
   .post-title__subtitle {
     font-size: 18px; } }
 table {
-  font-size: 16px; }
+  font-size: 16px;
+  margin-bottom: 1.5em; }
+
+table strong {
+  color: #646464; }
 
 /*table*/
 th {
@@ -286,7 +290,10 @@ td:last-of-type, th:last-of-type {
   padding-right: 0.5rem; }
 
 .table th {
+  color: #cdcdcd;
   background: none; }
+.table th strong {
+  color: #a7a7a7; }
 .table td, .table th {
   padding: 0 1.0rem; }
 .table td, .table th, .table tr {

@@ -4,6 +4,12 @@
 - slug: IPAs
   name: IPAs
 
+- slug: pale-ales
+  name: Pale Ales
+
+- slug: session-beers
+  name: Session Beers
+
 - slug: sours
   name: Sours
 

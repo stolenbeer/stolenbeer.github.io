@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "No.009 - Artless XPA"
+title:  "No.009 - Gay for XPA"
 subtitle: ""
 date:   2017-03-31 12:00:00
 categories: [IPAs]
@@ -8,7 +8,7 @@ categories: [IPAs]
 
 ## ?PA ##
 
-Have you noticed that a lot of "IPAs" technically saddle somewhere between APA and IPA? Personally, I love session IPAs, but aren't they really just a hopped up pale ale?
+I've found the type of beer that I most  enjoy brewing is a "session IPA" saddles somewhere between styles. Having a lower alcohol content, it could be dubbed a "Session IPA", as IPAs technically aren't  sessionable at an ABV of 5.5% or above. Or possibly you could call it an
 
 **BJCP Style guidelines:**
 

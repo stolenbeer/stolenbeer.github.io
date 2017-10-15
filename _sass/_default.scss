@@ -313,13 +313,18 @@ strong {
     }
 }
 
-$primary--light:     rgb(191,234,248);
-$primary--medium:    rgb(132,200,203);
-$primary--dark:      rgb(109,195,208);
+$primary--light:     lighten(#4ce0b6, 20%);
+$primary--medium:    #4ce0b6;
+$primary--dark:      darken(#4ce0b6, 20%);
 $secondary--light:   rgb(230,230,230);
 $secondary--medium:  rgb(205,205,205);
+$secondary--dark:    rgb(100,100,100);
 table{
   font-size: 16px;
+  margin-bottom: 1.5em;
+}
+table strong{
+  color: $secondary--dark;
 }
 /*table*/
 th {
@@ -344,7 +349,11 @@ td:last-of-type, th:last-of-type {
 
 .table {
   & th{
+    color: $secondary--medium;
     background: none;
+  }
+  & th strong{
+    color: darken($secondary--medium,15%);
   }
   & td, th {
     padding: 0 1.0rem;
