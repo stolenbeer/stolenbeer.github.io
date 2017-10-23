@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 15 Oct 2017 18:49:43 +1000</pubDate>
-    <lastBuildDate>Sun, 15 Oct 2017 18:49:43 +1000</lastBuildDate>
+    <pubDate>Sun, 22 Oct 2017 22:39:26 +1000</pubDate>
+    <lastBuildDate>Sun, 22 Oct 2017 22:39:26 +1000</lastBuildDate>
     <generator>Jekyll v3.5.1</generator>
     
       <item>
@@ -207,7 +207,20 @@ Day 11: 8.3 Brix, SG 1.016, ABV 5.6%&lt;/p&gt;
     
       <item>
         <title>No.012 ・ Tropical IPA</title>
-        <description>&lt;blockquote&gt;
+        <description>&lt;figure style=&quot;
+position: relative;
+top: -12em;
+margin-bottom: -12em;
+z-index: -1;
+opacity: 0.4;
+&quot;&gt;
+
+
+    &lt;img src=&quot;/assets/images/012_Tropical_IPA.png&quot; /&gt;
+
+&lt;/figure&gt;
+
+&lt;blockquote&gt;
   &lt;p&gt;&lt;strong&gt;Verdict:&lt;/strong&gt; Tropical notes abound! This turned out great, especially considering I correct gravity &lt;em&gt;during fermentation&lt;/em&gt;, crossing my fingers and throwing malt extract into the fermenter. Like a complete rogue. But it worked! Also, I really love this hop combination.&lt;/p&gt;
 &lt;/blockquote&gt;
 

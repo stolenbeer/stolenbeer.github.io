@@ -6,6 +6,14 @@ date:   2017-07-28 12:00:00
 categories: [IPAs]
 ---
 
+{: style="
+position: relative;
+top: -12em;
+margin-bottom: -12em;
+z-index: -1;
+opacity: 0.4;
+"}
+{% include image name="012_Tropical_IPA.png" %}
 
 > **Verdict:** Tropical notes abound! This turned out great, especially considering I correct gravity *during fermentation*, crossing my fingers and throwing malt extract into the fermenter. Like a complete rogue. But it worked! Also, I really love this hop combination.
 
