@@ -6,9 +6,219 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 22 Oct 2017 22:39:26 +1000</pubDate>
-    <lastBuildDate>Sun, 22 Oct 2017 22:39:26 +1000</lastBuildDate>
+    <pubDate>Mon, 13 Nov 2017 07:29:39 +1000</pubDate>
+    <lastBuildDate>Mon, 13 Nov 2017 07:29:39 +1000</lastBuildDate>
     <generator>Jekyll v3.5.1</generator>
+    
+      <item>
+        <title>No.015 ・ Citra Amarillo XPA</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Verdict:&lt;/strong&gt; &lt;em&gt;Very easy drinking but not particularly interesting&lt;/em&gt;. Nice fruity aroma, pillowy white head with outstanding retention. Appears golden and hazy due to chill haze. Tastes fairly one dimensional. Fruity notes as to be expected with Citra and Amarillo, little to no malt character.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;recipe&quot;&gt;Recipe&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Vol:&lt;/strong&gt; 10L (Half batch)&lt;br /&gt;
+&lt;strong&gt;Mash:&lt;/strong&gt; 60 min @ 65°C&lt;br /&gt;
+&lt;strong&gt;Yeast:&lt;/strong&gt; Safale US05&lt;br /&gt;
+&lt;strong&gt;Targets:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table class=&quot;table&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;OG&lt;/th&gt;
+      &lt;th&gt;FG&lt;/th&gt;
+      &lt;th&gt;ABV&lt;/th&gt;
+      &lt;th&gt;IBU&lt;/th&gt;
+      &lt;th&gt;EBC&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1.051&lt;/td&gt;
+      &lt;td&gt;1.013&lt;/td&gt;
+      &lt;td&gt;5.2%&lt;/td&gt;
+      &lt;td&gt;28&lt;/td&gt;
+      &lt;td&gt;11.7&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;div class=&quot;cf&quot;&gt;
+  &lt;p class=&quot;stats-label&quot;&gt;OG&lt;/p&gt;
+  &lt;div class=&quot;stats&quot;&gt;
+    &lt;div class=&quot;stats-bar&quot; style=&quot;left: 37.5%; right:50%;&quot;&gt;&lt;/div&gt;
+    &lt;div class=&quot;marker&quot; style=&quot;left: 43.3%;&quot;&gt;&lt;p&gt;1.051&lt;/p&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;cf&quot;&gt;
+  &lt;p class=&quot;stats-label&quot;&gt;FG&lt;/p&gt;
+  &lt;div class=&quot;stats&quot;&gt;
+    &lt;div class=&quot;stats-bar&quot; style=&quot;left: 8.3%; right:12.5%;&quot;&gt;&lt;/div&gt;
+    &lt;div class=&quot;marker&quot; style=&quot;left: 10.8%;&quot;&gt;&lt;p&gt;1.013&lt;/p&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;cf&quot;&gt;
+  &lt;p class=&quot;stats-label&quot;&gt;ABV&lt;/p&gt;
+  &lt;div class=&quot;stats&quot;&gt;
+    &lt;div class=&quot;stats-bar&quot; style=&quot;left: 30%; right:41.3%;&quot;&gt;&lt;/div&gt;
+    &lt;div class=&quot;marker&quot; style=&quot;left: 34.7%;&quot;&gt;&lt;p&gt;5.2%&lt;/p&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;cf&quot;&gt;
+  &lt;p class=&quot;stats-label&quot;&gt;IBU&lt;/p&gt;
+  &lt;div class=&quot;stats&quot;&gt;
+    &lt;div class=&quot;stats-bar&quot; style=&quot;left: 30%; right:45%;&quot;&gt;&lt;/div&gt;
+    &lt;div class=&quot;marker&quot; style=&quot;left: 30%;&quot;&gt;&lt;p&gt;28&lt;/p&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;cf&quot;&gt;
+  &lt;p class=&quot;stats-label&quot;&gt;EBC&lt;/p&gt;
+  &lt;div class=&quot;stats&quot;&gt;
+    &lt;div class=&quot;stats-bar&quot; style=&quot;left: 12.3%; right:34.5%;&quot;&gt;&lt;/div&gt;
+    &lt;div class=&quot;marker&quot; style=&quot;left: 15%;&quot;&gt;&lt;p&gt;12&lt;/p&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h3 class=&quot;section-title&quot; id=&quot;1-mash&quot;&gt;1. Mash&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Grain&lt;/th&gt;
+      &lt;th&gt;Weight&lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;American Ale Malt&lt;/td&gt;
+      &lt;td&gt;1900 g&lt;/td&gt;
+      &lt;td&gt;(77.2%)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Wheat Malt&lt;/td&gt;
+      &lt;td&gt;460 g&lt;/td&gt;
+      &lt;td&gt;(18.7%)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;CaraMunich&lt;/td&gt;
+      &lt;td&gt;100 g&lt;/td&gt;
+      &lt;td&gt;(4.1%)&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 class=&quot;section-title&quot; id=&quot;2-hop-boil&quot;&gt;2. Hop Boil&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Hop&lt;/th&gt;
+      &lt;th&gt;time&lt;/th&gt;
+      &lt;th&gt;weight (g)&lt;/th&gt;
+      &lt;th&gt;AA %&lt;/th&gt;
+      &lt;th&gt;IBU&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Columbus&lt;/td&gt;
+      &lt;td&gt;15&lt;/td&gt;
+      &lt;td&gt;10 g&lt;/td&gt;
+      &lt;td&gt;9.7&lt;/td&gt;
+      &lt;td&gt;13.5&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Amarillo&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;18 g&lt;/td&gt;
+      &lt;td&gt;9.7&lt;/td&gt;
+      &lt;td&gt;5.4&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Citra&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;18 g&lt;/td&gt;
+      &lt;td&gt;11.1&lt;/td&gt;
+      &lt;td&gt;6.2&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Amarillo&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;12 g&lt;/td&gt;
+      &lt;td&gt;8.5&lt;/td&gt;
+      &lt;td&gt;4.8&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Citra&lt;/td&gt;
+      &lt;td&gt;dry hop&lt;/td&gt;
+      &lt;td&gt;20 g&lt;/td&gt;
+      &lt;td&gt;11.1&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Amarillo&lt;/td&gt;
+      &lt;td&gt;dry hop&lt;/td&gt;
+      &lt;td&gt;10 g&lt;/td&gt;
+      &lt;td&gt;8.5&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 class=&quot;section-title&quot; id=&quot;3-ferment&quot;&gt;3. Ferment&lt;/h3&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;brew-log&quot;&gt;Brew Log&lt;/h2&gt;
+
+&lt;h3 class=&quot;section-title&quot; id=&quot;boil&quot;&gt;Boil&lt;/h3&gt;
+&lt;p&gt;30 min long boil. Hops additions at 15m and 5m (w/ whirlfloc). Flame out. Ice bath. Cooled within 45 min. Pitched at room temp. Dumped most of trub into fermenter.&lt;/p&gt;
+
+&lt;h3 class=&quot;section-title&quot; id=&quot;fermentation&quot;&gt;Fermentation&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Brew Day&lt;/strong&gt; (3/10) - 13.5 Brix @ pitching. Fermented at 18°C (from memory) for 10 days.&lt;br /&gt;
+&lt;strong&gt;Day 1&lt;/strong&gt; (4/10) - Clarity ferm added.&lt;br /&gt;
+&lt;strong&gt;Day 6&lt;/strong&gt; (9/10) - 7.2 Brix = 1.012 gravity.&lt;br /&gt;
+&lt;strong&gt;Day 10&lt;/strong&gt; (13/10) - Raised temp to 20°C to deal with any potential diactyl (even though fermentation complete). No cold crash. Bottled on &lt;strong&gt;Day 18&lt;/strong&gt; (21/10).&lt;/p&gt;
+
+&lt;table class=&quot;table&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;OG&lt;/th&gt;
+      &lt;th&gt;FG&lt;/th&gt;
+      &lt;th&gt;ABV&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1.052&lt;/td&gt;
+      &lt;td&gt;1.012&lt;/td&gt;
+      &lt;td&gt;5.3%&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 class=&quot;section-title&quot; id=&quot;tasting-score&quot;&gt;Tasting Score&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;3/5&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;A&lt;/strong&gt; - Pale to golden in color. Pours hazy due to chill haze. White pillowy head with outstanding retention.&lt;br /&gt;
+&lt;strong&gt;S&lt;/strong&gt; - Medium intensity. Sweet, fruity aroma.&lt;br /&gt;
+&lt;strong&gt;T&lt;/strong&gt; - Clean fermentation (finally! I’ve had some difficulty with US05 throwing peachy notes) with no perceivable off flavors. No interesting malt character. One dimensional in flavor. As one would expect from a Citra or Amarillo SMaSH type beer.&lt;br /&gt;
+&lt;strong&gt;M&lt;/strong&gt; - Light and smooth. Easy drinking, drinks like a lager.&lt;br /&gt;
+&lt;strong&gt;O&lt;/strong&gt; - Would serve it to friends and drink this over a big commercial beer. However, there’s nothing particularly remarkable or notable about this beer. If I ordered this at a bar expecting an interesting craft beer I would be sorely disappointed.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 03 Oct 2017 22:00:00 +1000</pubDate>
+        <link>http://localhost:4000/ipas/2017/10/03/015-Citra-Amarillo-XPA.html</link>
+        <guid isPermaLink="true">http://localhost:4000/ipas/2017/10/03/015-Citra-Amarillo-XPA.html</guid>
+        
+        
+        <category>IPAs</category>
+        
+      </item>
     
       <item>
         <title>No.014 ・ Mosaic Red IPA</title>
