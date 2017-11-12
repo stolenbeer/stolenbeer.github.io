@@ -109,8 +109,8 @@ categories: [IPAs]
 
 **3/5**
 
-**A** - Pale to golden in color. Pours hazy due to chill haze. White pillowy head with outstanding retention.  
-**S** - Medium intensity. Sweet, fruity aroma.  
-**T** - Clean fermentation (finally! I've had some difficulty with US05 throwing peachy notes) with no perceivable off flavors. No interesting malt character. One dimensional in flavor. As one would expect from a Citra or Amarillo SMaSH type beer.  
-**M** - Light and smooth. Easy drinking, drinks like a lager.  
-**O** - Would serve it to friends and drink this over a big commercial beer. However, there's nothing particularly remarkable or notable about this beer. If I ordered this at a bar expecting an interesting craft beer I would be sorely disappointed.
+**Appearance** - Pale to golden in color. Pours hazy due to chill haze. White pillowy head with outstanding retention.  
+**Smell** - Medium intensity. Sweet, fruity aroma.  
+**Taste** - Clean fermentation (finally! I've had some difficulty with US05 throwing peachy notes) with no perceivable off flavors. No interesting malt character. One dimensional in flavor. As one would expect from a Citra or Amarillo SMaSH type beer.  
+**Mouthfeel** - Light and smooth. Easy drinking, drinks like a lager.  
+**Overall** - Would serve it to friends and drink this over a big commercial beer. However, there's nothing particularly remarkable or notable about this beer. If I ordered this at a bar expecting an interesting craft beer I would be sorely disappointed.
