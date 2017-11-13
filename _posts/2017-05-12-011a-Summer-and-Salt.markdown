@@ -7,14 +7,17 @@ date: 2017-05-12 12:00:00
 
 ---
 
-{% include image name="011a_gose.jpg" %}
-
-{:.lead}
-A refreshing summertime brew perfect for an afternoon spent on the beach. Light, salty, sour with a big hoppy nose. Spiked full of white wine and tropical fruit flavours - kiwifruit, pineapple, lime zest and lemonades. Best enjoyed fresh before the aroma fades!
-
 > **Verdict:** I thoroughly enjoyed drinking this beer and will definitely brew it again. Next time I may adjust the salt qty to 3/4 the amount to see how it pans out and even attempt no boil. *Added bonus:* Without a full boil, and being staged over multiple days made this feel really quick to brew!
 
+{% include image name="011a_gose.jpg" %}
+
+This is a refreshing summertime brew perfect for an afternoon spent on the beach. Light, salty, sour with a big hoppy nose. Spiked full of white wine and tropical fruit flavours - kiwifruit, pineapple, lime zest and lemonades. Best enjoyed fresh before the aroma fades!
+
+---
+
 ## Recipe ##
+
+
 **Vol:** 10L (Half batch)  
 **Mash:**  45 min @ 50°C | 45 min @ 65°C  
 **Yeast:**  
@@ -64,7 +67,7 @@ This was my first attempt at brewing a sour. When I came across the [original re
 
 I hedged away from using a commercial liquid lactobacillus culture, mainly due to cost. I was cottoned on to the fact that probiotics can be used as an alternative source of lacto for kettle sours by my brewing bro-from-another-mo [beardybrew](https://www.instagram.com/beardybrew). The process on kettle souring using probiotics is well covered by [Sour Beer Blog](http://sourbeerblog.com/lactobacillus-2-0-advanced-techniques-for-fast-souring-beer/).
 
-I landed upon using a probiotic capsules containing *Lactobacillus Plantarum*; the product being *Ethical Nutrients "IBS Support"*. This strain of Lacto prefers to ferment at room temperature, which works well for me as I don't have any specialised equipment to keep my wort warm for extended periods of time. Required pitching rate is *10 billion cells : 1 L of wort*. For this product, this converts to *1 capsule : 2 L of wort* as each capsule contains 20 billion cells.
+I landed upon using a probiotic capsules containing *Lactobacillus Plantarum*; the product being *Ethical Nutrients "IBS Support"*. This strain of Lacto prefers to ferment at room temperature, which works well for me as I don't have the gear to keep my wort warm for extended periods of time. Required pitching rate is *10 billion cells : 1 L of wort*. For this product, this converts to *1 capsule : 2 L of wort* as each capsule contains 20 billion cells.
 
 ---
 

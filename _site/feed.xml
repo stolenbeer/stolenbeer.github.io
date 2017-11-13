@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 13 Nov 2017 07:29:39 +1000</pubDate>
-    <lastBuildDate>Mon, 13 Nov 2017 07:29:39 +1000</lastBuildDate>
+    <pubDate>Mon, 13 Nov 2017 14:34:28 +1000</pubDate>
+    <lastBuildDate>Mon, 13 Nov 2017 14:34:28 +1000</lastBuildDate>
     <generator>Jekyll v3.5.1</generator>
     
       <item>
@@ -16,7 +16,12 @@
   &lt;p&gt;&lt;strong&gt;Verdict:&lt;/strong&gt; &lt;em&gt;Very easy drinking but not particularly interesting&lt;/em&gt;. Nice fruity aroma, pillowy white head with outstanding retention. Appears golden and hazy due to chill haze. Tastes fairly one dimensional. Fruity notes as to be expected with Citra and Amarillo, little to no malt character.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;hr /&gt;
+&lt;figure&gt;
+
+
+    &lt;img src=&quot;/assets/images/015_Citra_Amarillo_XPA.jpg&quot; /&gt;
+
+&lt;/figure&gt;
 
 &lt;h2 id=&quot;recipe&quot;&gt;Recipe&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Vol:&lt;/strong&gt; 10L (Half batch)&lt;br /&gt;
@@ -201,22 +206,24 @@
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;h2 class=&quot;section-title&quot; id=&quot;tasting-score&quot;&gt;Tasting Score&lt;/h2&gt;
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;tasting-score&quot;&gt;Tasting Score&lt;/h2&gt;
 
 &lt;p&gt;&lt;strong&gt;3/5&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;A&lt;/strong&gt; - Pale to golden in color. Pours hazy due to chill haze. White pillowy head with outstanding retention.&lt;br /&gt;
-&lt;strong&gt;S&lt;/strong&gt; - Medium intensity. Sweet, fruity aroma.&lt;br /&gt;
-&lt;strong&gt;T&lt;/strong&gt; - Clean fermentation (finally! I’ve had some difficulty with US05 throwing peachy notes) with no perceivable off flavors. No interesting malt character. One dimensional in flavor. As one would expect from a Citra or Amarillo SMaSH type beer.&lt;br /&gt;
-&lt;strong&gt;M&lt;/strong&gt; - Light and smooth. Easy drinking, drinks like a lager.&lt;br /&gt;
-&lt;strong&gt;O&lt;/strong&gt; - Would serve it to friends and drink this over a big commercial beer. However, there’s nothing particularly remarkable or notable about this beer. If I ordered this at a bar expecting an interesting craft beer I would be sorely disappointed.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Appearance&lt;/strong&gt; - Pale to golden in color. Pours hazy due to chill haze. White pillowy head with outstanding retention.&lt;br /&gt;
+&lt;strong&gt;Smell&lt;/strong&gt; - Medium intensity. Sweet, fruity aroma.&lt;br /&gt;
+&lt;strong&gt;Taste&lt;/strong&gt; - Clean fermentation (finally! I’ve had some difficulty with US05 throwing peachy notes) with no perceivable off flavors. No interesting malt character. One dimensional in flavor. As one would expect from a Citra or Amarillo SMaSH type beer.&lt;br /&gt;
+&lt;strong&gt;Mouthfeel&lt;/strong&gt; - Light and smooth. Easy drinking, drinks like a lager.&lt;br /&gt;
+&lt;strong&gt;Overall&lt;/strong&gt; - Would serve it to friends and drink this over a big commercial beer. However, there’s nothing particularly remarkable or notable about this beer. If I ordered this at a bar expecting an interesting craft beer I would be sorely disappointed.&lt;/p&gt;
 </description>
         <pubDate>Tue, 03 Oct 2017 22:00:00 +1000</pubDate>
-        <link>http://localhost:4000/ipas/2017/10/03/015-Citra-Amarillo-XPA.html</link>
-        <guid isPermaLink="true">http://localhost:4000/ipas/2017/10/03/015-Citra-Amarillo-XPA.html</guid>
+        <link>http://localhost:4000/pale%20ales/2017/10/03/015-Citra-Amarillo-XPA.html</link>
+        <guid isPermaLink="true">http://localhost:4000/pale%20ales/2017/10/03/015-Citra-Amarillo-XPA.html</guid>
         
         
-        <category>IPAs</category>
+        <category>Pale Ales</category>
         
       </item>
     
@@ -596,20 +603,23 @@ opacity: 0.4;
     
       <item>
         <title>No.011a ・ Summer &amp; Salt Gose 🌟</title>
-        <description>&lt;figure&gt;
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Verdict:&lt;/strong&gt; I thoroughly enjoyed drinking this beer and will definitely brew it again. Next time I may adjust the salt qty to 3/4 the amount to see how it pans out and even attempt no boil. &lt;em&gt;Added bonus:&lt;/em&gt; Without a full boil, and being staged over multiple days made this feel really quick to brew!&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;figure&gt;
 
 
     &lt;img src=&quot;/assets/images/011a_gose.jpg&quot; /&gt;
 
 &lt;/figure&gt;
 
-&lt;p class=&quot;lead&quot;&gt;A refreshing summertime brew perfect for an afternoon spent on the beach. Light, salty, sour with a big hoppy nose. Spiked full of white wine and tropical fruit flavours - kiwifruit, pineapple, lime zest and lemonades. Best enjoyed fresh before the aroma fades!&lt;/p&gt;
+&lt;p&gt;This is a refreshing summertime brew perfect for an afternoon spent on the beach. Light, salty, sour with a big hoppy nose. Spiked full of white wine and tropical fruit flavours - kiwifruit, pineapple, lime zest and lemonades. Best enjoyed fresh before the aroma fades!&lt;/p&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;strong&gt;Verdict:&lt;/strong&gt; I thoroughly enjoyed drinking this beer and will definitely brew it again. Next time I may adjust the salt qty to 3/4 the amount to see how it pans out and even attempt no boil. &lt;em&gt;Added bonus:&lt;/em&gt; Without a full boil, and being staged over multiple days made this feel really quick to brew!&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;hr /&gt;
 
 &lt;h2 id=&quot;recipe&quot;&gt;Recipe&lt;/h2&gt;
+
 &lt;p&gt;&lt;strong&gt;Vol:&lt;/strong&gt; 10L (Half batch)&lt;br /&gt;
 &lt;strong&gt;Mash:&lt;/strong&gt;  45 min @ 50°C | 45 min @ 65°C&lt;br /&gt;
 &lt;strong&gt;Yeast:&lt;/strong&gt;&lt;br /&gt;
@@ -712,7 +722,7 @@ Optional 60 min boil.&lt;/p&gt;
 
 &lt;p&gt;I hedged away from using a commercial liquid lactobacillus culture, mainly due to cost. I was cottoned on to the fact that probiotics can be used as an alternative source of lacto for kettle sours by my brewing bro-from-another-mo &lt;a href=&quot;https://www.instagram.com/beardybrew&quot;&gt;beardybrew&lt;/a&gt;. The process on kettle souring using probiotics is well covered by &lt;a href=&quot;http://sourbeerblog.com/lactobacillus-2-0-advanced-techniques-for-fast-souring-beer/&quot;&gt;Sour Beer Blog&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;I landed upon using a probiotic capsules containing &lt;em&gt;Lactobacillus Plantarum&lt;/em&gt;; the product being &lt;em&gt;Ethical Nutrients “IBS Support”&lt;/em&gt;. This strain of Lacto prefers to ferment at room temperature, which works well for me as I don’t have any specialised equipment to keep my wort warm for extended periods of time. Required pitching rate is &lt;em&gt;10 billion cells : 1 L of wort&lt;/em&gt;. For this product, this converts to &lt;em&gt;1 capsule : 2 L of wort&lt;/em&gt; as each capsule contains 20 billion cells.&lt;/p&gt;
+&lt;p&gt;I landed upon using a probiotic capsules containing &lt;em&gt;Lactobacillus Plantarum&lt;/em&gt;; the product being &lt;em&gt;Ethical Nutrients “IBS Support”&lt;/em&gt;. This strain of Lacto prefers to ferment at room temperature, which works well for me as I don’t have the gear to keep my wort warm for extended periods of time. Required pitching rate is &lt;em&gt;10 billion cells : 1 L of wort&lt;/em&gt;. For this product, this converts to &lt;em&gt;1 capsule : 2 L of wort&lt;/em&gt; as each capsule contains 20 billion cells.&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -1217,26 +1227,26 @@ Optional 60 min boil.&lt;/p&gt;
     
       <item>
         <title>No.001 ‑ 007 ・ Previously Stolen Beers</title>
-        <description>&lt;p&gt;My lovely wife, Phoebe, bought me a &lt;a href=&quot;'https://brewsmith.com.au/'&quot;&gt;brewsmith&lt;/a&gt; kit for my birthday in late 2016. After making a couple kit recipes, and another couple partial mash extract beers, I switched to doing all grain BIAB beers. Here are my first half dozen+ all grain batches which turned out with varying success.&lt;/p&gt;
+        <description>&lt;p&gt;My lovely wife, Phoebe, bought me a &lt;a href=&quot;https://brewsmith.com.au/&quot;&gt;brewsmith&lt;/a&gt; kit for my birthday in late 2016. After making a couple kit recipes, and another couple partial extract beers, I quickly switched to doing all grain BIAB beers. Here are my first half dozen+ all grain batches which turned out with varying success.&lt;/p&gt;
 
 &lt;h2 id=&quot;no001---coffee-stout&quot;&gt;No.001 - Coffee Stout&lt;/h2&gt;
-&lt;p class=&quot;quote&quot;&gt;Stolen from &lt;a href=&quot;'https://www.brewtoad.com/recipes/slanted-coffee-stout-all-grain/'&quot;&gt;atomicbuni&lt;/a&gt; on Brewtoad | &lt;a href=&quot;'https://www.brewtoad.com/recipes/003-coffee-stout'&quot;&gt;Recipe&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&quot;quote&quot;&gt;Stolen from &lt;a href=&quot;https://www.brewtoad.com/recipes/slanted-coffee-stout-all-grain/&quot;&gt;atomicbuni&lt;/a&gt; on Brewtoad | &lt;a href=&quot;https://www.brewtoad.com/recipes/003-coffee-stout&quot;&gt;Recipe&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;This turned out pretty great for my first all grain batch. In future batches I think using whole beans will be the easiest way of adding coffee to the fermenter in the future.&lt;/p&gt;
 
 &lt;h2 id=&quot;no002---pacific-ale&quot;&gt;No.002 - Pacific Ale&lt;/h2&gt;
-&lt;p class=&quot;quote&quot;&gt;Stolen from homebrew forums | &lt;a href=&quot;'https://www.brewtoad.com/recipes/stone-wood-pacific-ale-all-grain-5l'&quot;&gt;Recipe&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&quot;quote&quot;&gt;Stolen from homebrew forums | &lt;a href=&quot;https://www.brewtoad.com/recipes/stone-wood-pacific-ale-all-grain-5l&quot;&gt;Recipe&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;no003---simcoe-ipa&quot;&gt;No.003 - Simcoe IPA&lt;/h2&gt;
-&lt;p class=&quot;quote&quot;&gt;Stolen from Brooklyn Brewshop’s &lt;a href=&quot;'https://www.amazon.com/Brooklyn-Brew-Shops-Beer-Making/dp/0307889203'&quot;&gt;Beer Making Book&lt;/a&gt; | &lt;a href=&quot;'https://www.brewtoad.com/recipes/004-simcoe-ipa'&quot;&gt;Recipe&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&quot;quote&quot;&gt;Stolen from Brooklyn Brewshop’s &lt;a href=&quot;https://www.amazon.com/Brooklyn-Brew-Shops-Beer-Making/dp/0307889203&quot;&gt;Beer Making Book&lt;/a&gt; | &lt;a href=&quot;https://www.brewtoad.com/recipes/004-simcoe-ipa&quot;&gt;Recipe&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;no005---dandelion-session-pale-ale&quot;&gt;No.005 - Dandelion Session Pale Ale&lt;/h2&gt;
-&lt;p class=&quot;quote&quot;&gt;Original recipe | &lt;a href=&quot;'https://www.brewtoad.com/recipes/005-dandelion-summer-ale'&quot;&gt;Recipe&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&quot;quote&quot;&gt;Original recipe | &lt;a href=&quot;https://www.brewtoad.com/recipes/005-dandelion-summer-ale&quot;&gt;Recipe&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;This was decent for the first beer that I designed. I harvested dandelion from my garden and used the whole plant in this beer. The leaves were used for bittering, I roasted up the roots to add to the mash, and threw in dandelion flowers at flameout. Fun, but a bit of extra work cleaning up the dandelion and preparing it for use.&lt;/p&gt;
 
 &lt;h2 id=&quot;no006---zombie-dust-clone&quot;&gt;No.006 - Zombie Dust Clone&lt;/h2&gt;
-&lt;p class=&quot;quote&quot;&gt;Stolen from &lt;a href=&quot;'https://www.brewtoad.com/recipes/zombie-dust-clone-1-gallon'&quot;&gt;Brewtoad&lt;/a&gt; | &lt;a href=&quot;'https://www.brewtoad.com/recipes/zombie-dust-clone-10l'&quot;&gt;Recipe&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&quot;quote&quot;&gt;Stolen from &lt;a href=&quot;https://www.brewtoad.com/recipes/zombie-dust-clone-1-gallon&quot;&gt;Brewtoad&lt;/a&gt; | &lt;a href=&quot;'https://www.brewtoad.com/recipes/zombie-dust-clone-10l&quot;&gt;Recipe&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;no007---nelson-galaxy-pale-ale&quot;&gt;No.007 - Nelson Galaxy Pale Ale&lt;/h2&gt;
 

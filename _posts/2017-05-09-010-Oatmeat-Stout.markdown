@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "No.010 ・ Oatmeal Stout"
-subtitle: "ABV&#58; 5.4%"
+subtitle: ""
 date:   2017-05-9 12:00:00
 categories: [stouts]
 ---

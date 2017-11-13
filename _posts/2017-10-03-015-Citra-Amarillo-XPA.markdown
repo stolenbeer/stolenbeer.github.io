@@ -3,12 +3,12 @@ layout: post
 title:  "No.015 ・ Citra Amarillo XPA"
 subtitle: ""
 date:   2017-10-03 12:00:00
-categories: [IPAs]
+categories: [Pale Ales]
 ---
 
 > **Verdict:** *Very easy drinking but not particularly interesting*. Nice fruity aroma, pillowy white head with outstanding retention. Appears golden and hazy due to chill haze. Tastes fairly one dimensional. Fruity notes as to be expected with Citra and Amarillo, little to no malt character.
 
----
+{% include image name="015_Citra_Amarillo_XPA.jpg" %}
 
 ## Recipe ##
 **Vol:** 10L (Half batch)  
@@ -104,7 +104,8 @@ categories: [IPAs]
 |----|----|-----|
 | 1.052 | 1.012 | 5.3% |
 
-{:.section-title}
+---
+
 ## Tasting Score ##
 
 **3/5**
