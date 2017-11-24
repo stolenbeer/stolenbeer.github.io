@@ -1,0 +1,102 @@
+---
+layout: post
+title:  "No. 017・ Xmas Session IPA"
+subtitle: ""
+date:   2017-10-03 12:00:00
+categories: [IPAs]
+---
+
+>Brew notes coming soon!
+
+
+
+## Recipe ##
+**Vol:** 10L  
+**Mash:** 60 min @ 66°C  
+**Yeast:** Mangrove Jacks M44 - US West Coast  
+**Targets:**
+
+{:.table}
+| OG | FG | ABV | IBU | EBC |
+|----|----|-----|-----|-----|
+| 1.047 | 1.009 | 5% | 23 | 16 |
+
+Recipe according to style *American IPA* style guide:
+
+<div class="cf">
+  <p class="stats-label">OG</p>
+  <div class="stats" >
+    <div class="stats-bar"  style="left: 46.7%; right:37.5%;" ></div>
+    <div class="marker" style="left: 39.2%;" ><p>1.047</p></div>
+  </div>
+</div>
+<div class="cf">
+  <p class="stats-label">FG</p>
+  <div class="stats" >
+    <div class="stats-bar"  style="left: 8.3%; right:85%;" ></div>
+    <div class="marker" style="left: 7.5%;" ><p>1.009</p></div>
+  </div>
+</div>
+<div class="cf">
+  <p class="stats-label">ABV</p>
+  <div class="stats" >
+    <div class="stats-bar"  style="left: 36.7%; right:50%;" ></div>
+    <div class="marker" style="left: 33.3%;" ><p>5%</p></div>
+  </div>
+</div>
+<div class="cf">
+  <p class="stats-label">IBU</p>
+  <div class="stats" >
+    <div class="stats-bar"  style="left: 40%; right:40%;" ></div>
+    <div class="marker" style="left: 23%;" ><p>23</p></div>
+  </div>
+</div>
+<div class="cf">
+  <p class="stats-label">EBC</p>
+  <div class="stats" >
+    <div class="stats-bar"  style="left: 14.8%; right:63.1%;" ></div>
+    <div class="marker" style="left: 20%;" ><p>16</p></div>
+  </div>
+</div>
+
+
+{:.section-title}
+### 1. Mash ###
+
+| Grain             | Weight      |         |
+|-------------------|-------------|---------|
+| Ale Maris Otter | 1900 g      | (88%) |
+| Vienna Malt | 130 g      | (6%) |
+| CaraMunich 2 | 130 g      | (6%) |
+
+
+
+
+
+
+*Mash water Profile:*  
+
+| Ca | Mg | Na | Cl | SO4 | Cl:SO4 |
+|--|--|--|--|--|--|
+| 110 | 20 | 14 | 50 | 275 | 0.18 |
+
+{:.section-title}
+### 2. Hop Boil ###
+
+| Hop | time | weight (g) | AA % | IBU |
+|-------|-------|-------|--------|-------|
+| **BOIL** |  |  |  |  |
+| Simcoe | 60 | 7 | 13% | 13 |
+| **WHIRLPOOL** |  |  |  |  |
+| Nelson Sauvin | 30 min | 14 | 11.5% | 11.5 |
+| Cascade | 30 min | 14 | 7.8% | 7.8 |
+| Simcoe | 30 min | 28 | 13% | 13 |
+| **DRY HOP** |  |  |  |  |
+| Nelson Sauvin | d. hop (5 days) | 14 | 11.5% | 11.5 |
+| Cascade | d. hop (5 days) | 14 | 7.8% | 7.8 |
+| Simcoe | d. hop (5 days) | 28 | 13% | 13 |
+
+{:.section-title}
+### 3. Ferment  ###
+
+---
