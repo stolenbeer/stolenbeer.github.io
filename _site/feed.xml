@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 24 Nov 2017 13:42:55 +1000</pubDate>
-    <lastBuildDate>Fri, 24 Nov 2017 13:42:55 +1000</lastBuildDate>
+    <pubDate>Fri, 24 Nov 2017 13:44:32 +1000</pubDate>
+    <lastBuildDate>Fri, 24 Nov 2017 13:44:32 +1000</lastBuildDate>
     <generator>Jekyll v3.5.1</generator>
     
       <item>
@@ -236,15 +236,7 @@
     
       <item>
         <title>No. 016・ Bourbon Vanilla Imperial Porter</title>
-        <description>&lt;hr /&gt;
-&lt;p&gt;layout: post
-title:  “No. 016・ Bourbon Vanilla Imperial Porter”
-subtitle: “”
-date:   2017-10-03 12:00:00
-categories: [IPAs]
-—&lt;/p&gt;
-
-&lt;blockquote&gt;
+        <description>&lt;blockquote&gt;
   &lt;p&gt;Brew notes coming soon!&lt;/p&gt;
 &lt;/blockquote&gt;
 

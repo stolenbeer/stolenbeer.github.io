@@ -5,13 +5,7 @@ subtitle: ""
 date:   2017-10-03 12:00:00
 categories: [Porters]
 ---
----
-layout: post
-title:  "No. 016・ Bourbon Vanilla Imperial Porter"
-subtitle: ""
-date:   2017-10-03 12:00:00
-categories: [IPAs]
----
+
 
 >Brew notes coming soon!
 
