@@ -76,6 +76,7 @@ Recipe according to style *American IPA* style guide:
 
 *Mash water Profile:*  
 
+{:.table}
 | Ca | Mg | Na | Cl | SO4 | Cl:SO4 |
 |--|--|--|--|--|--|
 | 110 | 20 | 14 | 50 | 275 | 0.18 |
@@ -83,18 +84,22 @@ Recipe according to style *American IPA* style guide:
 {:.section-title}
 ### 2. Hop Boil ###
 
+<div class="table-container" markdown="1">
+
 | Hop | time | weight (g) | AA % | IBU |
 |-------|-------|-------|--------|-------|
 | **BOIL** |  |  |  |  |
-| Simcoe | 60 | 7 | 13% | 13 |
+| Simcoe | 60 | 7 | 13% | 37 |
 | **WHIRLPOOL** |  |  |  |  |
-| Nelson Sauvin | 30 min | 14 | 11.5% | 11.5 |
-| Cascade | 30 min | 14 | 7.8% | 7.8 |
-| Simcoe | 30 min | 28 | 13% | 13 |
+| Nelson Sauvin | 30 min | 14 | 11.5% | |
+| Cascade | 30 min | 14 | 7.8% | |
+| Simcoe | 30 min | 28 | 13% |  |
 | **DRY HOP** |  |  |  |  |
-| Nelson Sauvin | d. hop (5 days) | 14 | 11.5% | 11.5 |
-| Cascade | d. hop (5 days) | 14 | 7.8% | 7.8 |
-| Simcoe | d. hop (5 days) | 28 | 13% | 13 |
+| Nelson Sauvin | 5 days | 14 | 11.5% |  |
+| Cascade | 5 days | 14 | 7.8% | |
+| Simcoe | 5 days | 28 | 13% | |
+
+</div>
 
 {:.section-title}
 ### 3. Ferment  ###

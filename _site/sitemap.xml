@@ -3,6 +3,36 @@
   
     
     <url>
+      <loc>http://localhost:4000/2017/12/07/Giant-amount-of-Homebrew-Recipes.html/</loc>
+      
+        <lastmod>2017-12-07T22:00:00+10:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.7</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/ipas/2017/11/24/017-Xmas-IPA.html/</loc>
+      
+        <lastmod>2017-11-24T22:00:00+10:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.7</priority>
+      
+    </url>
+    
+  
+    
+    <url>
       <loc>http://localhost:4000/porters/2017/10/29/016-Bourbon-Vanilla-Imperial-Porter.html/</loc>
       
         <lastmod>2017-10-29T22:00:00+10:00</lastmod>
@@ -143,7 +173,7 @@
     <url>
       <loc>http://localhost:4000/categories/favourites/</loc>
       
-        <lastmod>2017-11-24T13:45:42+10:00</lastmod>
+        <lastmod>2017-12-07T23:55:06+10:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -158,7 +188,7 @@
     <url>
       <loc>http://localhost:4000/categories/ipas/</loc>
       
-        <lastmod>2017-11-24T13:45:42+10:00</lastmod>
+        <lastmod>2017-12-07T23:55:06+10:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -173,7 +203,7 @@
     <url>
       <loc>http://localhost:4000/categories/pale-ales/</loc>
       
-        <lastmod>2017-11-24T13:45:42+10:00</lastmod>
+        <lastmod>2017-12-07T23:55:06+10:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -188,7 +218,7 @@
     <url>
       <loc>http://localhost:4000/categories/session-beers/</loc>
       
-        <lastmod>2017-11-24T13:45:42+10:00</lastmod>
+        <lastmod>2017-12-07T23:55:06+10:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -203,7 +233,7 @@
     <url>
       <loc>http://localhost:4000/categories/sours/</loc>
       
-        <lastmod>2017-11-24T13:45:42+10:00</lastmod>
+        <lastmod>2017-12-07T23:55:06+10:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -218,7 +248,7 @@
     <url>
       <loc>http://localhost:4000/categories/stouts/</loc>
       
-        <lastmod>2017-11-24T13:45:42+10:00</lastmod>
+        <lastmod>2017-12-07T23:55:06+10:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -233,7 +263,7 @@
     <url>
       <loc>http://localhost:4000/about/</loc>
       
-        <lastmod>2017-11-24T13:45:42+10:00</lastmod>
+        <lastmod>2017-12-07T23:55:06+10:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -250,7 +280,7 @@
     <url>
       <loc>http://localhost:4000/</loc>
       
-        <lastmod>2017-11-24T13:45:42+10:00</lastmod>
+        <lastmod>2017-12-07T23:55:06+10:00</lastmod>
       
       
         <changefreq>monthly</changefreq>

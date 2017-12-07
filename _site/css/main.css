@@ -63,7 +63,7 @@ blockquote {
       content: " **"; }
   blockquote p, blockquote table, blockquote ul, blockquote li {
     display: inline;
-    font-size: 18px;
+    font-size: 17px;
     color: #828282;
     font-weight: 300; }
 
@@ -276,31 +276,41 @@ table {
   margin-bottom: 1.5em; }
 
 table strong {
-  color: #646464; }
+  color: #646464;
+  font-size: 75%;
+  text-transform: uppercase; }
 
 /*table*/
+.table-container {
+  overflow: auto; }
+
 th {
   text-align: left;
-  background-color: #e6e6e6; }
+  text-transform: uppercase;
+  font-size: 75%;
+  color: #cdcdcd; }
 
 td, th {
   padding: 0 1.0rem;
-  text-align: center; }
+  text-align: center;
+  white-space: nowrap; }
 
 td, th, tr {
   border-bottom: 1px solid #262626; }
 
 td:first-of-type, th:first-of-type {
   border-left: none;
-  padding-left: 0.5rem;
+  padding-left: 0;
   text-align: left; }
 
 td:last-of-type, th:last-of-type {
-  padding-right: 0.5rem; }
+  padding-right: 0; }
 
 .table th {
+  font-size: 85%;
   color: #cdcdcd;
-  background: none; }
+  background: none;
+  text-transform: none; }
 .table th strong {
   color: #a7a7a7; }
 .table td, .table th {
