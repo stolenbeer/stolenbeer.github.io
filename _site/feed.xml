@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 28 Dec 2017 10:59:53 +1000</pubDate>
-    <lastBuildDate>Thu, 28 Dec 2017 10:59:53 +1000</lastBuildDate>
+    <pubDate>Sat, 17 Mar 2018 21:02:35 +1000</pubDate>
+    <lastBuildDate>Sat, 17 Mar 2018 21:02:35 +1000</lastBuildDate>
     <generator>Jekyll v3.5.1</generator>
     
       <item>
@@ -16,7 +16,7 @@
 
 &lt;h3 id=&quot;dark-beers&quot;&gt;Dark beers&lt;/h3&gt;
 &lt;ul&gt;
-  &lt;li&gt;I love a good stout and &lt;a href=&quot;https://www.homebrewersassociation.org/homebrew-recipe/danado-de-bom-oatmeal-stout-damn-good-oatmeal-stout/&quot;&gt;this oatmeal stout&lt;/a&gt; caught my eye. It seems to be heavier on the chocolate and roasted malt than &lt;a href=&quot;https://www.homebrewersassociation.org/homebrew-recipe/danado-de-bom-oatmeal-stout-damn-good-oatmeal-stout/&quot;&gt;my previous oatmeal stout&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;I love a good stout and &lt;a href=&quot;https://www.homebrewersassociation.org/homebrew-recipe/danado-de-bom-oatmeal-stout-damn-good-oatmeal-stout/&quot;&gt;this oatmeal stout&lt;/a&gt; caught my eye. It seems to be heavier on the chocolate and roasted malt than &lt;a href=&quot;/stouts/2017/05/09/010-Oatmeat-Stout&quot;&gt;my previous oatmeal stout&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;sours&quot;&gt;Sours&lt;/h3&gt;
@@ -313,40 +313,40 @@
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;Recipe according to style &lt;em&gt;Baltic Porter&lt;/em&gt; style guide:&lt;/p&gt;
+&lt;p&gt;Recipe according to style &lt;em&gt;Robust Porter&lt;/em&gt; style guide:&lt;/p&gt;
 
 &lt;div class=&quot;cf&quot;&gt;
   &lt;p class=&quot;stats-label&quot;&gt;OG&lt;/p&gt;
   &lt;div class=&quot;stats&quot;&gt;
-    &lt;div class=&quot;stats-bar&quot; style=&quot;left: 50%; right:25%;&quot;&gt;&lt;/div&gt;
+    &lt;div class=&quot;stats-bar&quot; style=&quot;left: 40%; right:45.8%;&quot;&gt;&lt;/div&gt;
     &lt;div class=&quot;marker&quot; style=&quot;left: 65.8%;&quot;&gt;&lt;p&gt;1.079&lt;/p&gt;&lt;/div&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&quot;cf&quot;&gt;
   &lt;p class=&quot;stats-label&quot;&gt;FG&lt;/p&gt;
   &lt;div class=&quot;stats&quot;&gt;
-    &lt;div class=&quot;stats-bar&quot; style=&quot;left: 13.3%; right:80%;&quot;&gt;&lt;/div&gt;
+    &lt;div class=&quot;stats-bar&quot; style=&quot;left: 10%; right:86.7%;&quot;&gt;&lt;/div&gt;
     &lt;div class=&quot;marker&quot; style=&quot;left: 13.3%;&quot;&gt;&lt;p&gt;1.016&lt;/p&gt;&lt;/div&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&quot;cf&quot;&gt;
   &lt;p class=&quot;stats-label&quot;&gt;ABV&lt;/p&gt;
   &lt;div class=&quot;stats&quot;&gt;
-    &lt;div class=&quot;stats-bar&quot; style=&quot;left: 36.7%; right:36.7%;&quot;&gt;&lt;/div&gt;
+    &lt;div class=&quot;stats-bar&quot; style=&quot;left: 32%; right:56.7%;&quot;&gt;&lt;/div&gt;
     &lt;div class=&quot;marker&quot; style=&quot;left: 55.3%;&quot;&gt;&lt;p&gt;8.3%&lt;/p&gt;&lt;/div&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&quot;cf&quot;&gt;
   &lt;p class=&quot;stats-label&quot;&gt;IBU&lt;/p&gt;
   &lt;div class=&quot;stats&quot;&gt;
-    &lt;div class=&quot;stats-bar&quot; style=&quot;left: 20%; right:60%;&quot;&gt;&lt;/div&gt;
+    &lt;div class=&quot;stats-bar&quot; style=&quot;left: 25%; right:50%;&quot;&gt;&lt;/div&gt;
     &lt;div class=&quot;marker&quot; style=&quot;left: 37%;&quot;&gt;&lt;p&gt;37&lt;/p&gt;&lt;/div&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&quot;cf&quot;&gt;
   &lt;p class=&quot;stats-label&quot;&gt;EBC&lt;/p&gt;
   &lt;div class=&quot;stats&quot;&gt;
-    &lt;div class=&quot;stats-bar&quot; style=&quot;left: 41.9%; right:26.1%;&quot;&gt;&lt;/div&gt;
+    &lt;div class=&quot;stats-bar&quot; style=&quot;left: 54.1%; right:13.7%;&quot;&gt;&lt;/div&gt;
     &lt;div class=&quot;marker&quot; style=&quot;left: 95%;&quot;&gt;&lt;p&gt;76&lt;/p&gt;&lt;/div&gt;
   &lt;/div&gt;
 &lt;/div&gt;

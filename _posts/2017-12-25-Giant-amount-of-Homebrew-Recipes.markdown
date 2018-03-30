@@ -9,7 +9,7 @@ categories: []
 Some recipes I'm keen to try in the future:
 
 ### Dark beers ###
-- I love a good stout and [this oatmeal stout](https://www.homebrewersassociation.org/homebrew-recipe/danado-de-bom-oatmeal-stout-damn-good-oatmeal-stout/) caught my eye. It seems to be heavier on the chocolate and roasted malt than [my previous oatmeal stout](https://www.homebrewersassociation.org/homebrew-recipe/danado-de-bom-oatmeal-stout-damn-good-oatmeal-stout/)
+- I love a good stout and [this oatmeal stout](https://www.homebrewersassociation.org/homebrew-recipe/danado-de-bom-oatmeal-stout-damn-good-oatmeal-stout/) caught my eye. It seems to be heavier on the chocolate and roasted malt than [my previous oatmeal stout](/stouts/2017/05/09/010-Oatmeat-Stout)
 
 ### Sours ###
 - I'm partial to a good sour, and would like to venture into giving a Flanders Red Ale a go. A recipe that looks good is [Jamil's Flanders Red](https://www.homebrewersassociation.org/homebrew-recipe/jamils-flanders-red/) which won gold in the Sour Ales category at the 2007 *National Homebrew Competition*. It looks like [Zed's Dead Red](https://www.brewersfriend.com/homebrew/recipe/view/346508/zed-s-dead-red), which took out gold in 2010, is the exact same recipe.

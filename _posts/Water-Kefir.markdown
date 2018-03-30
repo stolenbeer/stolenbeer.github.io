@@ -2,7 +2,7 @@
 layout: post
 title:  "Beer & Water Kefir Musings"
 subtitle: ""
-date:   2017-02-07 12:00:00
+date:   
 categories: [sours]
 ---
 
